@@ -15,9 +15,6 @@
 @
 @echo %cd%
 @
-@cl /EHsc /I../src  readme.cpp
-@
-@cd ./check
 @call ./make.bat
 @cd ..
 @

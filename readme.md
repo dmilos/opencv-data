@@ -1,4 +1,4 @@
 # Miscellaneous data used in OpenCV projects
 
-### AruCo
+### ArUco
  - Images that utilize ArUco markers 

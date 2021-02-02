@@ -4,13 +4,13 @@
     <g  transform=" translate(73.2273 348)  ">
         <g  transform="rotate(+90)">
 <g  transform="translate( 7 7)" >
-<!-- 0b1111000001111101100010000-->
-<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x11be0f</text>
+<!-- 0b1110011101011111001010000-->
+<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14fae7</text>
 <rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:white;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:white;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:white;"  /><rect width="7" height="7" x="7" y="14"  style="fill:white;"  /><rect width="7" height="7" x="14" y="14"  style="fill:white;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:black;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:white;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:black;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:white;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:black;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:white;"  /><rect width="7" height="7" x="7" y="7"  style="fill:white;"  /><rect width="7" height="7" x="14" y="7"  style="fill:white;"  /><rect width="7" height="7" x="21" y="7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:black;"  /><rect width="7" height="7" x="7" y="14"  style="fill:white;"  /><rect width="7" height="7" x="14" y="14"  style="fill:white;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:white;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:white;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="0" y="28"  style="fill:white;"  /><rect width="7" height="7" x="7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="14" y="28"  style="fill:black;"  /><rect width="7" height="7" x="21" y="28"  style="fill:black;"  /><rect width="7" height="7" x="28" y="28"  style="fill:black;"  /><rect width="7" height="7" x="35" y="28"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="0" y="35"  style="fill:black;"  /><rect width="7" height="7" x="7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="14" y="35"  style="fill:black;"  /><rect width="7" height="7" x="21" y="35"  style="fill:black;"  /><rect width="7" height="7" x="28" y="35"  style="fill:black;"  /><rect width="7" height="7" x="35" y="35"  style="fill:black;"  />
 </g>
@@ -18,13 +18,13 @@
     </g>
   <g  transform="translate(223.773 348) ">
 <g  transform="translate( 7 7)" >
-<!-- 0b1110010111001101100010000-->
-<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x11b3a7</text>
+<!-- 0b1111000001011111001010000-->
+<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14fa0f</text>
 <rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:white;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:black;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:white;"  /><rect width="7" height="7" x="7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="7"  style="fill:white;"  /><rect width="7" height="7" x="21" y="7"  style="fill:white;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:black;"  /><rect width="7" height="7" x="7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="14" y="14"  style="fill:white;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:black;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:white;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:black;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:white;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:white;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:black;"  /><rect width="7" height="7" x="7" y="14"  style="fill:white;"  /><rect width="7" height="7" x="14" y="14"  style="fill:white;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:white;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:white;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="0" y="28"  style="fill:white;"  /><rect width="7" height="7" x="7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="14" y="28"  style="fill:black;"  /><rect width="7" height="7" x="21" y="28"  style="fill:black;"  /><rect width="7" height="7" x="28" y="28"  style="fill:black;"  /><rect width="7" height="7" x="35" y="28"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="0" y="35"  style="fill:black;"  /><rect width="7" height="7" x="7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="14" y="35"  style="fill:black;"  /><rect width="7" height="7" x="21" y="35"  style="fill:black;"  /><rect width="7" height="7" x="28" y="35"  style="fill:black;"  /><rect width="7" height="7" x="35" y="35"  style="fill:black;"  />
 </g>
@@ -32,13 +32,13 @@
   <g  transform="translate(73.2273 72) ">
         <g  transform="rotate(+180)">
 <g  transform="translate( 7 7)" >
-<!-- 0b0110111101001101100010000-->
-<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x11b2f6</text>
+<!-- 0b0110110111101111001010000-->
+<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14f7b6</text>
 <rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:black;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:black;"  /><rect width="7" height="7" x="28" y="0"  style="fill:white;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:white;"  /><rect width="7" height="7" x="7" y="7"  style="fill:white;"  /><rect width="7" height="7" x="14" y="7"  style="fill:white;"  /><rect width="7" height="7" x="21" y="7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:black;"  /><rect width="7" height="7" x="7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="14" y="14"  style="fill:white;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:black;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:white;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:black;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:white;"  /><rect width="7" height="7" x="7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="7"  style="fill:white;"  /><rect width="7" height="7" x="21" y="7"  style="fill:white;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:white;"  /><rect width="7" height="7" x="7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="14" y="14"  style="fill:white;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:white;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:white;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="0" y="28"  style="fill:white;"  /><rect width="7" height="7" x="7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="14" y="28"  style="fill:black;"  /><rect width="7" height="7" x="21" y="28"  style="fill:black;"  /><rect width="7" height="7" x="28" y="28"  style="fill:black;"  /><rect width="7" height="7" x="35" y="28"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="0" y="35"  style="fill:black;"  /><rect width="7" height="7" x="7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="14" y="35"  style="fill:black;"  /><rect width="7" height="7" x="21" y="35"  style="fill:black;"  /><rect width="7" height="7" x="28" y="35"  style="fill:black;"  /><rect width="7" height="7" x="35" y="35"  style="fill:black;"  />
 </g>
@@ -47,13 +47,13 @@
   <g  transform="translate(223.773 72)">
         <g  transform="rotate(-90)">
 <g  transform="translate( 7 7)" >
-<!-- 0b0111001001110101100010000-->
-<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x11ae4e</text>
+<!-- 0b1101100111101111001010000-->
+<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14f79b</text>
 <rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:black;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:white;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="7"  style="fill:white;"  /><rect width="7" height="7" x="14" y="7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:white;"  /><rect width="7" height="7" x="7" y="14"  style="fill:white;"  /><rect width="7" height="7" x="14" y="14"  style="fill:black;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:black;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
-<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:white;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:black;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:white;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:black;"  /><rect width="7" height="7" x="21" y="0"  style="fill:white;"  /><rect width="7" height="7" x="28" y="0"  style="fill:white;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="7"  style="fill:white;"  /><rect width="7" height="7" x="21" y="7"  style="fill:white;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:white;"  /><rect width="7" height="7" x="7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="14" y="14"  style="fill:white;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:white;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:white;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="0" y="28"  style="fill:white;"  /><rect width="7" height="7" x="7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="14" y="28"  style="fill:black;"  /><rect width="7" height="7" x="21" y="28"  style="fill:black;"  /><rect width="7" height="7" x="28" y="28"  style="fill:black;"  /><rect width="7" height="7" x="35" y="28"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="0" y="35"  style="fill:black;"  /><rect width="7" height="7" x="7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="14" y="35"  style="fill:black;"  /><rect width="7" height="7" x="21" y="35"  style="fill:black;"  /><rect width="7" height="7" x="28" y="35"  style="fill:black;"  /><rect width="7" height="7" x="35" y="35"  style="fill:black;"  />
 </g>
@@ -127,71 +127,71 @@
 <rect width="25.0909" height="25.0909" x="100.364" y="250.909"  style="fill:gray;"  />
 <rect width="25.0909" height="25.0909" x="125.455" y="250.909"  style="fill:gray;"  />
        </g>
-<text fill="rgb(160,160,160)" transform="translate( 24.2273 82)"   style="font-size:4;font-family:'Courier New'" >
-<tspan sodipodi:role="line">#000000</tspan>
-<tspan sodipodi:role="line">#000808</tspan>
-<tspan sodipodi:role="line">#001010</tspan>
-<tspan sodipodi:role="line">#001818</tspan>
-<tspan sodipodi:role="line">#002020</tspan>
-<tspan sodipodi:role="line">#002828</tspan>
-<tspan sodipodi:role="line">#003030</tspan>
-<tspan sodipodi:role="line">#003838</tspan>
-<tspan sodipodi:role="line">#004040</tspan>
-<tspan sodipodi:role="line">#004848</tspan>
-<tspan sodipodi:role="line">#005050</tspan>
-<tspan sodipodi:role="line">#005858</tspan>
-<tspan sodipodi:role="line">#006060</tspan>
-<tspan sodipodi:role="line">#006868</tspan>
-<tspan sodipodi:role="line">#007070</tspan>
-<tspan sodipodi:role="line">#007878</tspan>
-<tspan sodipodi:role="line">#008080</tspan>
-<tspan sodipodi:role="line">#008888</tspan>
-<tspan sodipodi:role="line">#009090</tspan>
-<tspan sodipodi:role="line">#009898</tspan>
-<tspan sodipodi:role="line">#00A0A0</tspan>
-<tspan sodipodi:role="line">#00A8A8</tspan>
-<tspan sodipodi:role="line">#00B0B0</tspan>
-<tspan sodipodi:role="line">#00B8B8</tspan>
-<tspan sodipodi:role="line">#00C0C0</tspan>
-<tspan sodipodi:role="line">#00C8C8</tspan>
-<tspan sodipodi:role="line">#00D0D0</tspan>
-<tspan sodipodi:role="line">#00D8D8</tspan>
-<tspan sodipodi:role="line">#00E0E0</tspan>
-<tspan sodipodi:role="line">#00E8E8</tspan>
-<tspan sodipodi:role="line">#00F0F0</tspan>
-<tspan sodipodi:role="line">#00F8F8</tspan>
-<tspan sodipodi:role="line">#00FFFF</tspan>
-<tspan sodipodi:role="line">#08FFFF</tspan>
-<tspan sodipodi:role="line">#10FFFF</tspan>
-<tspan sodipodi:role="line">#18FFFF</tspan>
-<tspan sodipodi:role="line">#20FFFF</tspan>
-<tspan sodipodi:role="line">#28FFFF</tspan>
-<tspan sodipodi:role="line">#30FFFF</tspan>
-<tspan sodipodi:role="line">#38FFFF</tspan>
-<tspan sodipodi:role="line">#40FFFF</tspan>
-<tspan sodipodi:role="line">#48FFFF</tspan>
-<tspan sodipodi:role="line">#50FFFF</tspan>
-<tspan sodipodi:role="line">#58FFFF</tspan>
-<tspan sodipodi:role="line">#60FFFF</tspan>
-<tspan sodipodi:role="line">#68FFFF</tspan>
-<tspan sodipodi:role="line">#70FFFF</tspan>
-<tspan sodipodi:role="line">#78FFFF</tspan>
-<tspan sodipodi:role="line">#80FFFF</tspan>
-<tspan sodipodi:role="line">#88FFFF</tspan>
-<tspan sodipodi:role="line">#90FFFF</tspan>
-<tspan sodipodi:role="line">#98FFFF</tspan>
-<tspan sodipodi:role="line">#A0FFFF</tspan>
-<tspan sodipodi:role="line">#A8FFFF</tspan>
-<tspan sodipodi:role="line">#B0FFFF</tspan>
-<tspan sodipodi:role="line">#B8FFFF</tspan>
-<tspan sodipodi:role="line">#C0FFFF</tspan>
-<tspan sodipodi:role="line">#C8FFFF</tspan>
-<tspan sodipodi:role="line">#D0FFFF</tspan>
-<tspan sodipodi:role="line">#D8FFFF</tspan>
-<tspan sodipodi:role="line">#E0FFFF</tspan>
-<tspan sodipodi:role="line">#E8FFFF</tspan>
-<tspan sodipodi:role="line">#F0FFFF</tspan>
-<tspan sodipodi:role="line">#F8FFFF</tspan>
+<text fill="rgb(160,160,160)" transform="translate( 24.2273 82)"   style="font-size:3.8;font-family:'Courier New'" >
+<tspan sodipodi:role="line">#000000(  0,  0,  0)</tspan>
+<tspan sodipodi:role="line">#000808(  0,  8,  8)</tspan>
+<tspan sodipodi:role="line">#001010(  0, 16, 16)</tspan>
+<tspan sodipodi:role="line">#001818(  0, 24, 24)</tspan>
+<tspan sodipodi:role="line">#002020(  0, 32, 32)</tspan>
+<tspan sodipodi:role="line">#002828(  0, 40, 40)</tspan>
+<tspan sodipodi:role="line">#003030(  0, 48, 48)</tspan>
+<tspan sodipodi:role="line">#003838(  0, 56, 56)</tspan>
+<tspan sodipodi:role="line">#004040(  0, 64, 64)</tspan>
+<tspan sodipodi:role="line">#004848(  0, 72, 72)</tspan>
+<tspan sodipodi:role="line">#005050(  0, 80, 80)</tspan>
+<tspan sodipodi:role="line">#005858(  0, 88, 88)</tspan>
+<tspan sodipodi:role="line">#006060(  0, 96, 96)</tspan>
+<tspan sodipodi:role="line">#006868(  0,104,104)</tspan>
+<tspan sodipodi:role="line">#007070(  0,112,112)</tspan>
+<tspan sodipodi:role="line">#007878(  0,120,120)</tspan>
+<tspan sodipodi:role="line">#008080(  0,128,128)</tspan>
+<tspan sodipodi:role="line">#008888(  0,136,136)</tspan>
+<tspan sodipodi:role="line">#009090(  0,144,144)</tspan>
+<tspan sodipodi:role="line">#009898(  0,152,152)</tspan>
+<tspan sodipodi:role="line">#00A0A0(  0,160,160)</tspan>
+<tspan sodipodi:role="line">#00A8A8(  0,168,168)</tspan>
+<tspan sodipodi:role="line">#00B0B0(  0,176,176)</tspan>
+<tspan sodipodi:role="line">#00B8B8(  0,184,184)</tspan>
+<tspan sodipodi:role="line">#00C0C0(  0,192,192)</tspan>
+<tspan sodipodi:role="line">#00C8C8(  0,200,200)</tspan>
+<tspan sodipodi:role="line">#00D0D0(  0,208,208)</tspan>
+<tspan sodipodi:role="line">#00D8D8(  0,216,216)</tspan>
+<tspan sodipodi:role="line">#00E0E0(  0,224,224)</tspan>
+<tspan sodipodi:role="line">#00E8E8(  0,232,232)</tspan>
+<tspan sodipodi:role="line">#00F0F0(  0,240,240)</tspan>
+<tspan sodipodi:role="line">#00F8F8(  0,248,248)</tspan>
+<tspan sodipodi:role="line">#00FFFF(  0,255,255)</tspan>
+<tspan sodipodi:role="line">#08FFFF(  8,255,255)</tspan>
+<tspan sodipodi:role="line">#10FFFF( 16,255,255)</tspan>
+<tspan sodipodi:role="line">#18FFFF( 24,255,255)</tspan>
+<tspan sodipodi:role="line">#20FFFF( 32,255,255)</tspan>
+<tspan sodipodi:role="line">#28FFFF( 40,255,255)</tspan>
+<tspan sodipodi:role="line">#30FFFF( 48,255,255)</tspan>
+<tspan sodipodi:role="line">#38FFFF( 56,255,255)</tspan>
+<tspan sodipodi:role="line">#40FFFF( 64,255,255)</tspan>
+<tspan sodipodi:role="line">#48FFFF( 72,255,255)</tspan>
+<tspan sodipodi:role="line">#50FFFF( 80,255,255)</tspan>
+<tspan sodipodi:role="line">#58FFFF( 88,255,255)</tspan>
+<tspan sodipodi:role="line">#60FFFF( 96,255,255)</tspan>
+<tspan sodipodi:role="line">#68FFFF(104,255,255)</tspan>
+<tspan sodipodi:role="line">#70FFFF(112,255,255)</tspan>
+<tspan sodipodi:role="line">#78FFFF(120,255,255)</tspan>
+<tspan sodipodi:role="line">#80FFFF(128,255,255)</tspan>
+<tspan sodipodi:role="line">#88FFFF(136,255,255)</tspan>
+<tspan sodipodi:role="line">#90FFFF(144,255,255)</tspan>
+<tspan sodipodi:role="line">#98FFFF(152,255,255)</tspan>
+<tspan sodipodi:role="line">#A0FFFF(160,255,255)</tspan>
+<tspan sodipodi:role="line">#A8FFFF(168,255,255)</tspan>
+<tspan sodipodi:role="line">#B0FFFF(176,255,255)</tspan>
+<tspan sodipodi:role="line">#B8FFFF(184,255,255)</tspan>
+<tspan sodipodi:role="line">#C0FFFF(192,255,255)</tspan>
+<tspan sodipodi:role="line">#C8FFFF(200,255,255)</tspan>
+<tspan sodipodi:role="line">#D0FFFF(208,255,255)</tspan>
+<tspan sodipodi:role="line">#D8FFFF(216,255,255)</tspan>
+<tspan sodipodi:role="line">#E0FFFF(224,255,255)</tspan>
+<tspan sodipodi:role="line">#E8FFFF(232,255,255)</tspan>
+<tspan sodipodi:role="line">#F0FFFF(240,255,255)</tspan>
+<tspan sodipodi:role="line">#F8FFFF(248,255,255)</tspan>
 </text>
 
        </g>
@@ -199,8 +199,8 @@
 <!--
 name some-name
 nbits 25
-0000000000000000001162767
-0000000000000000001160103
-0000000000000000001159926
-0000000000000000001158734
+0000101001111101011100111
+0000101001111101000001111
+0000101001111011110110110
+0000101001111011110011011
 -->

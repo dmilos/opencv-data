@@ -1,0 +1,769 @@
+  <svg height="420mm" width="297mm" >
+  <sodipodi:namedview id="base" inkscape:document-units="mm" />
+  <g  transform="translate(0 0) scale( 3.7795277 )">
+    <g  transform=" translate(72 346.607)  ">
+        <g  transform="rotate(+90)">
+<g  transform="translate( 7 7)" >
+<!-- 0b0110110111001101001010000-->
+<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14b3b6</text>
+<rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:black;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:black;"  /><rect width="7" height="7" x="28" y="0"  style="fill:white;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:white;"  /><rect width="7" height="7" x="7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="7"  style="fill:white;"  /><rect width="7" height="7" x="21" y="7"  style="fill:white;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:black;"  /><rect width="7" height="7" x="7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="14" y="14"  style="fill:white;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:black;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:white;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="0" y="28"  style="fill:white;"  /><rect width="7" height="7" x="7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="14" y="28"  style="fill:black;"  /><rect width="7" height="7" x="21" y="28"  style="fill:black;"  /><rect width="7" height="7" x="28" y="28"  style="fill:black;"  /><rect width="7" height="7" x="35" y="28"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="0" y="35"  style="fill:black;"  /><rect width="7" height="7" x="7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="14" y="35"  style="fill:black;"  /><rect width="7" height="7" x="21" y="35"  style="fill:black;"  /><rect width="7" height="7" x="28" y="35"  style="fill:black;"  /><rect width="7" height="7" x="35" y="35"  style="fill:black;"  />
+</g>
+        </g>
+    </g>
+  <g  transform="translate(225 346.607) ">
+<g  transform="translate( 7 7)" >
+<!-- 0b1110011101001101001010000-->
+<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14b2e7</text>
+<rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:white;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:black;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:white;"  /><rect width="7" height="7" x="7" y="7"  style="fill:white;"  /><rect width="7" height="7" x="14" y="7"  style="fill:white;"  /><rect width="7" height="7" x="21" y="7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:black;"  /><rect width="7" height="7" x="7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="14" y="14"  style="fill:white;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:black;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:white;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="0" y="28"  style="fill:white;"  /><rect width="7" height="7" x="7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="14" y="28"  style="fill:black;"  /><rect width="7" height="7" x="21" y="28"  style="fill:black;"  /><rect width="7" height="7" x="28" y="28"  style="fill:black;"  /><rect width="7" height="7" x="35" y="28"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="0" y="35"  style="fill:black;"  /><rect width="7" height="7" x="7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="14" y="35"  style="fill:black;"  /><rect width="7" height="7" x="21" y="35"  style="fill:black;"  /><rect width="7" height="7" x="28" y="35"  style="fill:black;"  /><rect width="7" height="7" x="35" y="35"  style="fill:black;"  />
+</g>
+       </g>
+  <g  transform="translate(72 73.3929) ">
+        <g  transform="rotate(+180)">
+<g  transform="translate( 7 7)" >
+<!-- 0b1111001011110101001010000-->
+<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14af4f</text>
+<rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:white;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:white;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="7"  style="fill:white;"  /><rect width="7" height="7" x="14" y="7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="7"  style="fill:white;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:white;"  /><rect width="7" height="7" x="7" y="14"  style="fill:white;"  /><rect width="7" height="7" x="14" y="14"  style="fill:black;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:black;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:white;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="0" y="28"  style="fill:white;"  /><rect width="7" height="7" x="7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="14" y="28"  style="fill:black;"  /><rect width="7" height="7" x="21" y="28"  style="fill:black;"  /><rect width="7" height="7" x="28" y="28"  style="fill:black;"  /><rect width="7" height="7" x="35" y="28"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="0" y="35"  style="fill:black;"  /><rect width="7" height="7" x="7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="14" y="35"  style="fill:black;"  /><rect width="7" height="7" x="21" y="35"  style="fill:black;"  /><rect width="7" height="7" x="28" y="35"  style="fill:black;"  /><rect width="7" height="7" x="35" y="35"  style="fill:black;"  />
+</g>
+        </g>
+    </g>
+  <g  transform="translate(225 73.3929)">
+        <g  transform="rotate(-90)">
+<g  transform="translate( 7 7)" >
+<!-- 0b0111000011110101001010000-->
+<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14af0e</text>
+<rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:black;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:white;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="7"  style="fill:white;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="14"  style="fill:black;"  /><rect width="7" height="7" x="0" y="14"  style="fill:white;"  /><rect width="7" height="7" x="7" y="14"  style="fill:white;"  /><rect width="7" height="7" x="14" y="14"  style="fill:black;"  /><rect width="7" height="7" x="21" y="14"  style="fill:white;"  /><rect width="7" height="7" x="28" y="14"  style="fill:black;"  /><rect width="7" height="7" x="35" y="14"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="0" y="21"  style="fill:white;"  /><rect width="7" height="7" x="7" y="21"  style="fill:black;"  /><rect width="7" height="7" x="14" y="21"  style="fill:black;"  /><rect width="7" height="7" x="21" y="21"  style="fill:white;"  /><rect width="7" height="7" x="28" y="21"  style="fill:black;"  /><rect width="7" height="7" x="35" y="21"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="0" y="28"  style="fill:white;"  /><rect width="7" height="7" x="7" y="28"  style="fill:black;"  /><rect width="7" height="7" x="14" y="28"  style="fill:black;"  /><rect width="7" height="7" x="21" y="28"  style="fill:black;"  /><rect width="7" height="7" x="28" y="28"  style="fill:black;"  /><rect width="7" height="7" x="35" y="28"  style="fill:black;"  />
+<rect width="7" height="7" x="-7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="0" y="35"  style="fill:black;"  /><rect width="7" height="7" x="7" y="35"  style="fill:black;"  /><rect width="7" height="7" x="14" y="35"  style="fill:black;"  /><rect width="7" height="7" x="21" y="35"  style="fill:black;"  /><rect width="7" height="7" x="28" y="35"  style="fill:black;"  /><rect width="7" height="7" x="35" y="35"  style="fill:black;"  />
+</g>
+        </g>
+    </g>
+  <g  transform="  translate(72 346.607) scale( +1 -1 )" >
+<rect width="10.9286" height="10.9286" x="0" y="0"  style="fill:#000000;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="0"  style="fill:#00002A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="0"  style="fill:#000055;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="0"  style="fill:#00007F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="0"  style="fill:#0000AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="0"  style="fill:#0000D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="0"  style="fill:#0000FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="0"  style="fill:#002A00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="0"  style="fill:#002A2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="0"  style="fill:#002A55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="0"  style="fill:#002A7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="0"  style="fill:#002AAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="0"  style="fill:#002AD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="0"  style="fill:#002AFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="10.9286"  style="fill:#005500;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="10.9286"  style="fill:#00552A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="10.9286"  style="fill:#005555;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="10.9286"  style="fill:#00557F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="10.9286"  style="fill:#0055AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="10.9286"  style="fill:#0055D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="10.9286"  style="fill:#0055FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="10.9286"  style="fill:#007F00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="10.9286"  style="fill:#007F2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="10.9286"  style="fill:#007F55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="10.9286"  style="fill:#007F7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="10.9286"  style="fill:#007FAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="10.9286"  style="fill:#007FD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="10.9286"  style="fill:#007FFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="21.8571"  style="fill:#00AA00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="21.8571"  style="fill:#00AA2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="21.8571"  style="fill:#00AA55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="21.8571"  style="fill:#00AA7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="21.8571"  style="fill:#00AAAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="21.8571"  style="fill:#00AAD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="21.8571"  style="fill:#00AAFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="21.8571"  style="fill:#00D400;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="21.8571"  style="fill:#00D42A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="21.8571"  style="fill:#00D455;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="21.8571"  style="fill:#00D47F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="21.8571"  style="fill:#00D4AA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="21.8571"  style="fill:#00D4D4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="21.8571"  style="fill:#00D4FF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="32.7857"  style="fill:#00FF00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="32.7857"  style="fill:#00FF2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="32.7857"  style="fill:#00FF55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="32.7857"  style="fill:#00FF7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="32.7857"  style="fill:#00FFAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="32.7857"  style="fill:#00FFD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="32.7857"  style="fill:#00FFFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="32.7857"  style="fill:#2A0000;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="32.7857"  style="fill:#2A002A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="32.7857"  style="fill:#2A0055;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="32.7857"  style="fill:#2A007F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="32.7857"  style="fill:#2A00AA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="32.7857"  style="fill:#2A00D4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="32.7857"  style="fill:#2A00FF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="43.7143"  style="fill:#2A2A00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="43.7143"  style="fill:#2A2A2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="43.7143"  style="fill:#2A2A55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="43.7143"  style="fill:#2A2A7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="43.7143"  style="fill:#2A2AAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="43.7143"  style="fill:#2A2AD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="43.7143"  style="fill:#2A2AFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="43.7143"  style="fill:#2A5500;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="43.7143"  style="fill:#2A552A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="43.7143"  style="fill:#2A5555;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="43.7143"  style="fill:#2A557F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="43.7143"  style="fill:#2A55AA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="43.7143"  style="fill:#2A55D4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="43.7143"  style="fill:#2A55FF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="54.6429"  style="fill:#2A7F00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="54.6429"  style="fill:#2A7F2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="54.6429"  style="fill:#2A7F55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="54.6429"  style="fill:#2A7F7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="54.6429"  style="fill:#2A7FAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="54.6429"  style="fill:#2A7FD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="54.6429"  style="fill:#2A7FFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="54.6429"  style="fill:#2AAA00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="54.6429"  style="fill:#2AAA2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="54.6429"  style="fill:#2AAA55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="54.6429"  style="fill:#2AAA7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="54.6429"  style="fill:#2AAAAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="54.6429"  style="fill:#2AAAD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="54.6429"  style="fill:#2AAAFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="65.5714"  style="fill:#2AD400;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="65.5714"  style="fill:#2AD42A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="65.5714"  style="fill:#2AD455;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="65.5714"  style="fill:#2AD47F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="65.5714"  style="fill:#2AD4AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="65.5714"  style="fill:#2AD4D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="65.5714"  style="fill:#2AD4FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="65.5714"  style="fill:#2AFF00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="65.5714"  style="fill:#2AFF2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="65.5714"  style="fill:#2AFF55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="65.5714"  style="fill:#2AFF7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="65.5714"  style="fill:#2AFFAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="65.5714"  style="fill:#2AFFD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="65.5714"  style="fill:#2AFFFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="76.5"  style="fill:#550000;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="76.5"  style="fill:#55002A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="76.5"  style="fill:#550055;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="76.5"  style="fill:#55007F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="76.5"  style="fill:#5500AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="76.5"  style="fill:#5500D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="76.5"  style="fill:#5500FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="76.5"  style="fill:#552A00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="76.5"  style="fill:#552A2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="76.5"  style="fill:#552A55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="76.5"  style="fill:#552A7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="76.5"  style="fill:#552AAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="76.5"  style="fill:#552AD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="76.5"  style="fill:#552AFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="87.4286"  style="fill:#555500;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="87.4286"  style="fill:#55552A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="87.4286"  style="fill:#555555;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="87.4286"  style="fill:#55557F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="87.4286"  style="fill:#5555AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="87.4286"  style="fill:#5555D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="87.4286"  style="fill:#5555FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="87.4286"  style="fill:#557F00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="87.4286"  style="fill:#557F2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="87.4286"  style="fill:#557F55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="87.4286"  style="fill:#557F7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="87.4286"  style="fill:#557FAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="87.4286"  style="fill:#557FD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="87.4286"  style="fill:#557FFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="98.3571"  style="fill:#55AA00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="98.3571"  style="fill:#55AA2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="98.3571"  style="fill:#55AA55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="98.3571"  style="fill:#55AA7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="98.3571"  style="fill:#55AAAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="98.3571"  style="fill:#55AAD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="98.3571"  style="fill:#55AAFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="98.3571"  style="fill:#55D400;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="98.3571"  style="fill:#55D42A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="98.3571"  style="fill:#55D455;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="98.3571"  style="fill:#55D47F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="98.3571"  style="fill:#55D4AA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="98.3571"  style="fill:#55D4D4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="98.3571"  style="fill:#55D4FF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="109.286"  style="fill:#55FF00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="109.286"  style="fill:#55FF2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="109.286"  style="fill:#55FF55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="109.286"  style="fill:#55FF7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="109.286"  style="fill:#55FFAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="109.286"  style="fill:#55FFD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="109.286"  style="fill:#55FFFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="109.286"  style="fill:#7F0000;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="109.286"  style="fill:#7F002A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="109.286"  style="fill:#7F0055;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="109.286"  style="fill:#7F007F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="109.286"  style="fill:#7F00AA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="109.286"  style="fill:#7F00D4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="109.286"  style="fill:#7F00FF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="120.214"  style="fill:#7F2A00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="120.214"  style="fill:#7F2A2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="120.214"  style="fill:#7F2A55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="120.214"  style="fill:#7F2A7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="120.214"  style="fill:#7F2AAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="120.214"  style="fill:#7F2AD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="120.214"  style="fill:#7F2AFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="120.214"  style="fill:#7F5500;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="120.214"  style="fill:#7F552A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="120.214"  style="fill:#7F5555;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="120.214"  style="fill:#7F557F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="120.214"  style="fill:#7F55AA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="120.214"  style="fill:#7F55D4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="120.214"  style="fill:#7F55FF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="131.143"  style="fill:#7F7F00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="131.143"  style="fill:#7F7F2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="131.143"  style="fill:#7F7F55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="131.143"  style="fill:#7F7F7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="131.143"  style="fill:#7F7FAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="131.143"  style="fill:#7F7FD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="131.143"  style="fill:#7F7FFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="131.143"  style="fill:#7FAA00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="131.143"  style="fill:#7FAA2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="131.143"  style="fill:#7FAA55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="131.143"  style="fill:#7FAA7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="131.143"  style="fill:#7FAAAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="131.143"  style="fill:#7FAAD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="131.143"  style="fill:#7FAAFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="142.071"  style="fill:#7FD400;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="142.071"  style="fill:#7FD42A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="142.071"  style="fill:#7FD455;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="142.071"  style="fill:#7FD47F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="142.071"  style="fill:#7FD4AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="142.071"  style="fill:#7FD4D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="142.071"  style="fill:#7FD4FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="142.071"  style="fill:#7FFF00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="142.071"  style="fill:#7FFF2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="142.071"  style="fill:#7FFF55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="142.071"  style="fill:#7FFF7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="142.071"  style="fill:#7FFFAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="142.071"  style="fill:#7FFFD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="142.071"  style="fill:#7FFFFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="153"  style="fill:#AA0000;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="153"  style="fill:#AA002A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="153"  style="fill:#AA0055;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="153"  style="fill:#AA007F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="153"  style="fill:#AA00AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="153"  style="fill:#AA00D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="153"  style="fill:#AA00FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="153"  style="fill:#AA2A00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="153"  style="fill:#AA2A2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="153"  style="fill:#AA2A55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="153"  style="fill:#AA2A7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="153"  style="fill:#AA2AAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="153"  style="fill:#AA2AD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="153"  style="fill:#AA2AFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="163.929"  style="fill:#AA5500;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="163.929"  style="fill:#AA552A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="163.929"  style="fill:#AA5555;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="163.929"  style="fill:#AA557F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="163.929"  style="fill:#AA55AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="163.929"  style="fill:#AA55D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="163.929"  style="fill:#AA55FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="163.929"  style="fill:#AA7F00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="163.929"  style="fill:#AA7F2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="163.929"  style="fill:#AA7F55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="163.929"  style="fill:#AA7F7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="163.929"  style="fill:#AA7FAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="163.929"  style="fill:#AA7FD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="163.929"  style="fill:#AA7FFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="174.857"  style="fill:#AAAA00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="174.857"  style="fill:#AAAA2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="174.857"  style="fill:#AAAA55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="174.857"  style="fill:#AAAA7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="174.857"  style="fill:#AAAAAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="174.857"  style="fill:#AAAAD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="174.857"  style="fill:#AAAAFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="174.857"  style="fill:#AAD400;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="174.857"  style="fill:#AAD42A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="174.857"  style="fill:#AAD455;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="174.857"  style="fill:#AAD47F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="174.857"  style="fill:#AAD4AA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="174.857"  style="fill:#AAD4D4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="174.857"  style="fill:#AAD4FF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="185.786"  style="fill:#AAFF00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="185.786"  style="fill:#AAFF2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="185.786"  style="fill:#AAFF55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="185.786"  style="fill:#AAFF7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="185.786"  style="fill:#AAFFAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="185.786"  style="fill:#AAFFD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="185.786"  style="fill:#AAFFFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="185.786"  style="fill:#D40000;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="185.786"  style="fill:#D4002A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="185.786"  style="fill:#D40055;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="185.786"  style="fill:#D4007F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="185.786"  style="fill:#D400AA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="185.786"  style="fill:#D400D4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="185.786"  style="fill:#D400FF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="196.714"  style="fill:#D42A00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="196.714"  style="fill:#D42A2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="196.714"  style="fill:#D42A55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="196.714"  style="fill:#D42A7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="196.714"  style="fill:#D42AAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="196.714"  style="fill:#D42AD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="196.714"  style="fill:#D42AFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="196.714"  style="fill:#D45500;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="196.714"  style="fill:#D4552A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="196.714"  style="fill:#D45555;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="196.714"  style="fill:#D4557F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="196.714"  style="fill:#D455AA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="196.714"  style="fill:#D455D4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="196.714"  style="fill:#D455FF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="207.643"  style="fill:#D47F00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="207.643"  style="fill:#D47F2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="207.643"  style="fill:#D47F55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="207.643"  style="fill:#D47F7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="207.643"  style="fill:#D47FAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="207.643"  style="fill:#D47FD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="207.643"  style="fill:#D47FFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="207.643"  style="fill:#D4AA00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="207.643"  style="fill:#D4AA2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="207.643"  style="fill:#D4AA55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="207.643"  style="fill:#D4AA7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="207.643"  style="fill:#D4AAAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="207.643"  style="fill:#D4AAD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="207.643"  style="fill:#D4AAFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="218.571"  style="fill:#D4D400;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="218.571"  style="fill:#D4D42A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="218.571"  style="fill:#D4D455;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="218.571"  style="fill:#D4D47F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="218.571"  style="fill:#D4D4AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="218.571"  style="fill:#D4D4D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="218.571"  style="fill:#D4D4FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="218.571"  style="fill:#D4FF00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="218.571"  style="fill:#D4FF2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="218.571"  style="fill:#D4FF55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="218.571"  style="fill:#D4FF7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="218.571"  style="fill:#D4FFAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="218.571"  style="fill:#D4FFD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="218.571"  style="fill:#D4FFFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="229.5"  style="fill:#FF0000;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="229.5"  style="fill:#FF002A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="229.5"  style="fill:#FF0055;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="229.5"  style="fill:#FF007F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="229.5"  style="fill:#FF00AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="229.5"  style="fill:#FF00D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="229.5"  style="fill:#FF00FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="229.5"  style="fill:#FF2A00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="229.5"  style="fill:#FF2A2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="229.5"  style="fill:#FF2A55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="229.5"  style="fill:#FF2A7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="229.5"  style="fill:#FF2AAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="229.5"  style="fill:#FF2AD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="229.5"  style="fill:#FF2AFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="240.429"  style="fill:#FF5500;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="240.429"  style="fill:#FF552A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="240.429"  style="fill:#FF5555;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="240.429"  style="fill:#FF557F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="240.429"  style="fill:#FF55AA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="240.429"  style="fill:#FF55D4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="240.429"  style="fill:#FF55FF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="240.429"  style="fill:#FF7F00;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="240.429"  style="fill:#FF7F2A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="240.429"  style="fill:#FF7F55;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="240.429"  style="fill:#FF7F7F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="240.429"  style="fill:#FF7FAA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="240.429"  style="fill:#FF7FD4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="240.429"  style="fill:#FF7FFF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="251.357"  style="fill:#FFAA00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="251.357"  style="fill:#FFAA2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="251.357"  style="fill:#FFAA55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="251.357"  style="fill:#FFAA7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="251.357"  style="fill:#FFAAAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="251.357"  style="fill:#FFAAD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="251.357"  style="fill:#FFAAFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="251.357"  style="fill:#FFD400;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="251.357"  style="fill:#FFD42A;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="251.357"  style="fill:#FFD455;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="251.357"  style="fill:#FFD47F;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="251.357"  style="fill:#FFD4AA;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="251.357"  style="fill:#FFD4D4;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="251.357"  style="fill:#FFD4FF;"  />
+<rect width="10.9286" height="10.9286" x="0" y="262.286"  style="fill:#FFFF00;"  />
+<rect width="10.9286" height="10.9286" x="10.9286" y="262.286"  style="fill:#FFFF2A;"  />
+<rect width="10.9286" height="10.9286" x="21.8571" y="262.286"  style="fill:#FFFF55;"  />
+<rect width="10.9286" height="10.9286" x="32.7857" y="262.286"  style="fill:#FFFF7F;"  />
+<rect width="10.9286" height="10.9286" x="43.7143" y="262.286"  style="fill:#FFFFAA;"  />
+<rect width="10.9286" height="10.9286" x="54.6429" y="262.286"  style="fill:#FFFFD4;"  />
+<rect width="10.9286" height="10.9286" x="65.5714" y="262.286"  style="fill:#FFFFFF;"  />
+<rect width="10.9286" height="10.9286" x="76.5" y="262.286"  style="fill:gray;"  />
+<rect width="10.9286" height="10.9286" x="87.4286" y="262.286"  style="fill:gray;"  />
+<rect width="10.9286" height="10.9286" x="98.3571" y="262.286"  style="fill:gray;"  />
+<rect width="10.9286" height="10.9286" x="109.286" y="262.286"  style="fill:gray;"  />
+<rect width="10.9286" height="10.9286" x="120.214" y="262.286"  style="fill:gray;"  />
+<rect width="10.9286" height="10.9286" x="131.143" y="262.286"  style="fill:gray;"  />
+<rect width="10.9286" height="10.9286" x="142.071" y="262.286"  style="fill:gray;"  />
+       </g>
+<!-- <text fill="rgb(160,160,160)" transform="translate( 23 83.3929)"   style="font-size:3.8;font-family:'Courier New'" >
+<tspan sodipodi:role="line">#000000(  0,  0,  0)</tspan>
+<tspan sodipodi:role="line">#00002A(  0,  0, 42)</tspan>
+<tspan sodipodi:role="line">#000055(  0,  0, 85)</tspan>
+<tspan sodipodi:role="line">#00007F(  0,  0,127)</tspan>
+<tspan sodipodi:role="line">#0000AA(  0,  0,170)</tspan>
+<tspan sodipodi:role="line">#0000D4(  0,  0,212)</tspan>
+<tspan sodipodi:role="line">#0000FF(  0,  0,255)</tspan>
+<tspan sodipodi:role="line">#002A00(  0, 42,  0)</tspan>
+<tspan sodipodi:role="line">#002A2A(  0, 42, 42)</tspan>
+<tspan sodipodi:role="line">#002A55(  0, 42, 85)</tspan>
+<tspan sodipodi:role="line">#002A7F(  0, 42,127)</tspan>
+<tspan sodipodi:role="line">#002AAA(  0, 42,170)</tspan>
+<tspan sodipodi:role="line">#002AD4(  0, 42,212)</tspan>
+<tspan sodipodi:role="line">#002AFF(  0, 42,255)</tspan>
+<tspan sodipodi:role="line">#005500(  0, 85,  0)</tspan>
+<tspan sodipodi:role="line">#00552A(  0, 85, 42)</tspan>
+<tspan sodipodi:role="line">#005555(  0, 85, 85)</tspan>
+<tspan sodipodi:role="line">#00557F(  0, 85,127)</tspan>
+<tspan sodipodi:role="line">#0055AA(  0, 85,170)</tspan>
+<tspan sodipodi:role="line">#0055D4(  0, 85,212)</tspan>
+<tspan sodipodi:role="line">#0055FF(  0, 85,255)</tspan>
+<tspan sodipodi:role="line">#007F00(  0,127,  0)</tspan>
+<tspan sodipodi:role="line">#007F2A(  0,127, 42)</tspan>
+<tspan sodipodi:role="line">#007F55(  0,127, 85)</tspan>
+<tspan sodipodi:role="line">#007F7F(  0,127,127)</tspan>
+<tspan sodipodi:role="line">#007FAA(  0,127,170)</tspan>
+<tspan sodipodi:role="line">#007FD4(  0,127,212)</tspan>
+<tspan sodipodi:role="line">#007FFF(  0,127,255)</tspan>
+<tspan sodipodi:role="line">#00AA00(  0,170,  0)</tspan>
+<tspan sodipodi:role="line">#00AA2A(  0,170, 42)</tspan>
+<tspan sodipodi:role="line">#00AA55(  0,170, 85)</tspan>
+<tspan sodipodi:role="line">#00AA7F(  0,170,127)</tspan>
+<tspan sodipodi:role="line">#00AAAA(  0,170,170)</tspan>
+<tspan sodipodi:role="line">#00AAD4(  0,170,212)</tspan>
+<tspan sodipodi:role="line">#00AAFF(  0,170,255)</tspan>
+<tspan sodipodi:role="line">#00D400(  0,212,  0)</tspan>
+<tspan sodipodi:role="line">#00D42A(  0,212, 42)</tspan>
+<tspan sodipodi:role="line">#00D455(  0,212, 85)</tspan>
+<tspan sodipodi:role="line">#00D47F(  0,212,127)</tspan>
+<tspan sodipodi:role="line">#00D4AA(  0,212,170)</tspan>
+<tspan sodipodi:role="line">#00D4D4(  0,212,212)</tspan>
+<tspan sodipodi:role="line">#00D4FF(  0,212,255)</tspan>
+<tspan sodipodi:role="line">#00FF00(  0,255,  0)</tspan>
+<tspan sodipodi:role="line">#00FF2A(  0,255, 42)</tspan>
+<tspan sodipodi:role="line">#00FF55(  0,255, 85)</tspan>
+<tspan sodipodi:role="line">#00FF7F(  0,255,127)</tspan>
+<tspan sodipodi:role="line">#00FFAA(  0,255,170)</tspan>
+<tspan sodipodi:role="line">#00FFD4(  0,255,212)</tspan>
+<tspan sodipodi:role="line">#00FFFF(  0,255,255)</tspan>
+<tspan sodipodi:role="line">#2A0000( 42,  0,  0)</tspan>
+<tspan sodipodi:role="line">#2A002A( 42,  0, 42)</tspan>
+<tspan sodipodi:role="line">#2A0055( 42,  0, 85)</tspan>
+<tspan sodipodi:role="line">#2A007F( 42,  0,127)</tspan>
+<tspan sodipodi:role="line">#2A00AA( 42,  0,170)</tspan>
+<tspan sodipodi:role="line">#2A00D4( 42,  0,212)</tspan>
+<tspan sodipodi:role="line">#2A00FF( 42,  0,255)</tspan>
+<tspan sodipodi:role="line">#2A2A00( 42, 42,  0)</tspan>
+<tspan sodipodi:role="line">#2A2A2A( 42, 42, 42)</tspan>
+<tspan sodipodi:role="line">#2A2A55( 42, 42, 85)</tspan>
+<tspan sodipodi:role="line">#2A2A7F( 42, 42,127)</tspan>
+<tspan sodipodi:role="line">#2A2AAA( 42, 42,170)</tspan>
+<tspan sodipodi:role="line">#2A2AD4( 42, 42,212)</tspan>
+<tspan sodipodi:role="line">#2A2AFF( 42, 42,255)</tspan>
+<tspan sodipodi:role="line">#2A5500( 42, 85,  0)</tspan>
+<tspan sodipodi:role="line">#2A552A( 42, 85, 42)</tspan>
+<tspan sodipodi:role="line">#2A5555( 42, 85, 85)</tspan>
+<tspan sodipodi:role="line">#2A557F( 42, 85,127)</tspan>
+<tspan sodipodi:role="line">#2A55AA( 42, 85,170)</tspan>
+<tspan sodipodi:role="line">#2A55D4( 42, 85,212)</tspan>
+<tspan sodipodi:role="line">#2A55FF( 42, 85,255)</tspan>
+<tspan sodipodi:role="line">#2A7F00( 42,127,  0)</tspan>
+<tspan sodipodi:role="line">#2A7F2A( 42,127, 42)</tspan>
+<tspan sodipodi:role="line">#2A7F55( 42,127, 85)</tspan>
+<tspan sodipodi:role="line">#2A7F7F( 42,127,127)</tspan>
+<tspan sodipodi:role="line">#2A7FAA( 42,127,170)</tspan>
+<tspan sodipodi:role="line">#2A7FD4( 42,127,212)</tspan>
+<tspan sodipodi:role="line">#2A7FFF( 42,127,255)</tspan>
+<tspan sodipodi:role="line">#2AAA00( 42,170,  0)</tspan>
+<tspan sodipodi:role="line">#2AAA2A( 42,170, 42)</tspan>
+<tspan sodipodi:role="line">#2AAA55( 42,170, 85)</tspan>
+<tspan sodipodi:role="line">#2AAA7F( 42,170,127)</tspan>
+<tspan sodipodi:role="line">#2AAAAA( 42,170,170)</tspan>
+<tspan sodipodi:role="line">#2AAAD4( 42,170,212)</tspan>
+<tspan sodipodi:role="line">#2AAAFF( 42,170,255)</tspan>
+<tspan sodipodi:role="line">#2AD400( 42,212,  0)</tspan>
+<tspan sodipodi:role="line">#2AD42A( 42,212, 42)</tspan>
+<tspan sodipodi:role="line">#2AD455( 42,212, 85)</tspan>
+<tspan sodipodi:role="line">#2AD47F( 42,212,127)</tspan>
+<tspan sodipodi:role="line">#2AD4AA( 42,212,170)</tspan>
+<tspan sodipodi:role="line">#2AD4D4( 42,212,212)</tspan>
+<tspan sodipodi:role="line">#2AD4FF( 42,212,255)</tspan>
+<tspan sodipodi:role="line">#2AFF00( 42,255,  0)</tspan>
+<tspan sodipodi:role="line">#2AFF2A( 42,255, 42)</tspan>
+<tspan sodipodi:role="line">#2AFF55( 42,255, 85)</tspan>
+<tspan sodipodi:role="line">#2AFF7F( 42,255,127)</tspan>
+<tspan sodipodi:role="line">#2AFFAA( 42,255,170)</tspan>
+<tspan sodipodi:role="line">#2AFFD4( 42,255,212)</tspan>
+<tspan sodipodi:role="line">#2AFFFF( 42,255,255)</tspan>
+<tspan sodipodi:role="line">#550000( 85,  0,  0)</tspan>
+<tspan sodipodi:role="line">#55002A( 85,  0, 42)</tspan>
+<tspan sodipodi:role="line">#550055( 85,  0, 85)</tspan>
+<tspan sodipodi:role="line">#55007F( 85,  0,127)</tspan>
+<tspan sodipodi:role="line">#5500AA( 85,  0,170)</tspan>
+<tspan sodipodi:role="line">#5500D4( 85,  0,212)</tspan>
+<tspan sodipodi:role="line">#5500FF( 85,  0,255)</tspan>
+<tspan sodipodi:role="line">#552A00( 85, 42,  0)</tspan>
+<tspan sodipodi:role="line">#552A2A( 85, 42, 42)</tspan>
+<tspan sodipodi:role="line">#552A55( 85, 42, 85)</tspan>
+<tspan sodipodi:role="line">#552A7F( 85, 42,127)</tspan>
+<tspan sodipodi:role="line">#552AAA( 85, 42,170)</tspan>
+<tspan sodipodi:role="line">#552AD4( 85, 42,212)</tspan>
+<tspan sodipodi:role="line">#552AFF( 85, 42,255)</tspan>
+<tspan sodipodi:role="line">#555500( 85, 85,  0)</tspan>
+<tspan sodipodi:role="line">#55552A( 85, 85, 42)</tspan>
+<tspan sodipodi:role="line">#555555( 85, 85, 85)</tspan>
+<tspan sodipodi:role="line">#55557F( 85, 85,127)</tspan>
+<tspan sodipodi:role="line">#5555AA( 85, 85,170)</tspan>
+<tspan sodipodi:role="line">#5555D4( 85, 85,212)</tspan>
+<tspan sodipodi:role="line">#5555FF( 85, 85,255)</tspan>
+<tspan sodipodi:role="line">#557F00( 85,127,  0)</tspan>
+<tspan sodipodi:role="line">#557F2A( 85,127, 42)</tspan>
+<tspan sodipodi:role="line">#557F55( 85,127, 85)</tspan>
+<tspan sodipodi:role="line">#557F7F( 85,127,127)</tspan>
+<tspan sodipodi:role="line">#557FAA( 85,127,170)</tspan>
+<tspan sodipodi:role="line">#557FD4( 85,127,212)</tspan>
+<tspan sodipodi:role="line">#557FFF( 85,127,255)</tspan>
+<tspan sodipodi:role="line">#55AA00( 85,170,  0)</tspan>
+<tspan sodipodi:role="line">#55AA2A( 85,170, 42)</tspan>
+<tspan sodipodi:role="line">#55AA55( 85,170, 85)</tspan>
+<tspan sodipodi:role="line">#55AA7F( 85,170,127)</tspan>
+<tspan sodipodi:role="line">#55AAAA( 85,170,170)</tspan>
+<tspan sodipodi:role="line">#55AAD4( 85,170,212)</tspan>
+<tspan sodipodi:role="line">#55AAFF( 85,170,255)</tspan>
+<tspan sodipodi:role="line">#55D400( 85,212,  0)</tspan>
+<tspan sodipodi:role="line">#55D42A( 85,212, 42)</tspan>
+<tspan sodipodi:role="line">#55D455( 85,212, 85)</tspan>
+<tspan sodipodi:role="line">#55D47F( 85,212,127)</tspan>
+<tspan sodipodi:role="line">#55D4AA( 85,212,170)</tspan>
+<tspan sodipodi:role="line">#55D4D4( 85,212,212)</tspan>
+<tspan sodipodi:role="line">#55D4FF( 85,212,255)</tspan>
+<tspan sodipodi:role="line">#55FF00( 85,255,  0)</tspan>
+<tspan sodipodi:role="line">#55FF2A( 85,255, 42)</tspan>
+<tspan sodipodi:role="line">#55FF55( 85,255, 85)</tspan>
+<tspan sodipodi:role="line">#55FF7F( 85,255,127)</tspan>
+<tspan sodipodi:role="line">#55FFAA( 85,255,170)</tspan>
+<tspan sodipodi:role="line">#55FFD4( 85,255,212)</tspan>
+<tspan sodipodi:role="line">#55FFFF( 85,255,255)</tspan>
+<tspan sodipodi:role="line">#7F0000(127,  0,  0)</tspan>
+<tspan sodipodi:role="line">#7F002A(127,  0, 42)</tspan>
+<tspan sodipodi:role="line">#7F0055(127,  0, 85)</tspan>
+<tspan sodipodi:role="line">#7F007F(127,  0,127)</tspan>
+<tspan sodipodi:role="line">#7F00AA(127,  0,170)</tspan>
+<tspan sodipodi:role="line">#7F00D4(127,  0,212)</tspan>
+<tspan sodipodi:role="line">#7F00FF(127,  0,255)</tspan>
+<tspan sodipodi:role="line">#7F2A00(127, 42,  0)</tspan>
+<tspan sodipodi:role="line">#7F2A2A(127, 42, 42)</tspan>
+<tspan sodipodi:role="line">#7F2A55(127, 42, 85)</tspan>
+<tspan sodipodi:role="line">#7F2A7F(127, 42,127)</tspan>
+<tspan sodipodi:role="line">#7F2AAA(127, 42,170)</tspan>
+<tspan sodipodi:role="line">#7F2AD4(127, 42,212)</tspan>
+<tspan sodipodi:role="line">#7F2AFF(127, 42,255)</tspan>
+<tspan sodipodi:role="line">#7F5500(127, 85,  0)</tspan>
+<tspan sodipodi:role="line">#7F552A(127, 85, 42)</tspan>
+<tspan sodipodi:role="line">#7F5555(127, 85, 85)</tspan>
+<tspan sodipodi:role="line">#7F557F(127, 85,127)</tspan>
+<tspan sodipodi:role="line">#7F55AA(127, 85,170)</tspan>
+<tspan sodipodi:role="line">#7F55D4(127, 85,212)</tspan>
+<tspan sodipodi:role="line">#7F55FF(127, 85,255)</tspan>
+<tspan sodipodi:role="line">#7F7F00(127,127,  0)</tspan>
+<tspan sodipodi:role="line">#7F7F2A(127,127, 42)</tspan>
+<tspan sodipodi:role="line">#7F7F55(127,127, 85)</tspan>
+<tspan sodipodi:role="line">#7F7F7F(127,127,127)</tspan>
+<tspan sodipodi:role="line">#7F7FAA(127,127,170)</tspan>
+<tspan sodipodi:role="line">#7F7FD4(127,127,212)</tspan>
+<tspan sodipodi:role="line">#7F7FFF(127,127,255)</tspan>
+<tspan sodipodi:role="line">#7FAA00(127,170,  0)</tspan>
+<tspan sodipodi:role="line">#7FAA2A(127,170, 42)</tspan>
+<tspan sodipodi:role="line">#7FAA55(127,170, 85)</tspan>
+<tspan sodipodi:role="line">#7FAA7F(127,170,127)</tspan>
+<tspan sodipodi:role="line">#7FAAAA(127,170,170)</tspan>
+<tspan sodipodi:role="line">#7FAAD4(127,170,212)</tspan>
+<tspan sodipodi:role="line">#7FAAFF(127,170,255)</tspan>
+<tspan sodipodi:role="line">#7FD400(127,212,  0)</tspan>
+<tspan sodipodi:role="line">#7FD42A(127,212, 42)</tspan>
+<tspan sodipodi:role="line">#7FD455(127,212, 85)</tspan>
+<tspan sodipodi:role="line">#7FD47F(127,212,127)</tspan>
+<tspan sodipodi:role="line">#7FD4AA(127,212,170)</tspan>
+<tspan sodipodi:role="line">#7FD4D4(127,212,212)</tspan>
+<tspan sodipodi:role="line">#7FD4FF(127,212,255)</tspan>
+<tspan sodipodi:role="line">#7FFF00(127,255,  0)</tspan>
+<tspan sodipodi:role="line">#7FFF2A(127,255, 42)</tspan>
+<tspan sodipodi:role="line">#7FFF55(127,255, 85)</tspan>
+<tspan sodipodi:role="line">#7FFF7F(127,255,127)</tspan>
+<tspan sodipodi:role="line">#7FFFAA(127,255,170)</tspan>
+<tspan sodipodi:role="line">#7FFFD4(127,255,212)</tspan>
+<tspan sodipodi:role="line">#7FFFFF(127,255,255)</tspan>
+<tspan sodipodi:role="line">#AA0000(170,  0,  0)</tspan>
+<tspan sodipodi:role="line">#AA002A(170,  0, 42)</tspan>
+<tspan sodipodi:role="line">#AA0055(170,  0, 85)</tspan>
+<tspan sodipodi:role="line">#AA007F(170,  0,127)</tspan>
+<tspan sodipodi:role="line">#AA00AA(170,  0,170)</tspan>
+<tspan sodipodi:role="line">#AA00D4(170,  0,212)</tspan>
+<tspan sodipodi:role="line">#AA00FF(170,  0,255)</tspan>
+<tspan sodipodi:role="line">#AA2A00(170, 42,  0)</tspan>
+<tspan sodipodi:role="line">#AA2A2A(170, 42, 42)</tspan>
+<tspan sodipodi:role="line">#AA2A55(170, 42, 85)</tspan>
+<tspan sodipodi:role="line">#AA2A7F(170, 42,127)</tspan>
+<tspan sodipodi:role="line">#AA2AAA(170, 42,170)</tspan>
+<tspan sodipodi:role="line">#AA2AD4(170, 42,212)</tspan>
+<tspan sodipodi:role="line">#AA2AFF(170, 42,255)</tspan>
+<tspan sodipodi:role="line">#AA5500(170, 85,  0)</tspan>
+<tspan sodipodi:role="line">#AA552A(170, 85, 42)</tspan>
+<tspan sodipodi:role="line">#AA5555(170, 85, 85)</tspan>
+<tspan sodipodi:role="line">#AA557F(170, 85,127)</tspan>
+<tspan sodipodi:role="line">#AA55AA(170, 85,170)</tspan>
+<tspan sodipodi:role="line">#AA55D4(170, 85,212)</tspan>
+<tspan sodipodi:role="line">#AA55FF(170, 85,255)</tspan>
+<tspan sodipodi:role="line">#AA7F00(170,127,  0)</tspan>
+<tspan sodipodi:role="line">#AA7F2A(170,127, 42)</tspan>
+<tspan sodipodi:role="line">#AA7F55(170,127, 85)</tspan>
+<tspan sodipodi:role="line">#AA7F7F(170,127,127)</tspan>
+<tspan sodipodi:role="line">#AA7FAA(170,127,170)</tspan>
+<tspan sodipodi:role="line">#AA7FD4(170,127,212)</tspan>
+<tspan sodipodi:role="line">#AA7FFF(170,127,255)</tspan>
+<tspan sodipodi:role="line">#AAAA00(170,170,  0)</tspan>
+<tspan sodipodi:role="line">#AAAA2A(170,170, 42)</tspan>
+<tspan sodipodi:role="line">#AAAA55(170,170, 85)</tspan>
+<tspan sodipodi:role="line">#AAAA7F(170,170,127)</tspan>
+<tspan sodipodi:role="line">#AAAAAA(170,170,170)</tspan>
+<tspan sodipodi:role="line">#AAAAD4(170,170,212)</tspan>
+<tspan sodipodi:role="line">#AAAAFF(170,170,255)</tspan>
+<tspan sodipodi:role="line">#AAD400(170,212,  0)</tspan>
+<tspan sodipodi:role="line">#AAD42A(170,212, 42)</tspan>
+<tspan sodipodi:role="line">#AAD455(170,212, 85)</tspan>
+<tspan sodipodi:role="line">#AAD47F(170,212,127)</tspan>
+<tspan sodipodi:role="line">#AAD4AA(170,212,170)</tspan>
+<tspan sodipodi:role="line">#AAD4D4(170,212,212)</tspan>
+<tspan sodipodi:role="line">#AAD4FF(170,212,255)</tspan>
+<tspan sodipodi:role="line">#AAFF00(170,255,  0)</tspan>
+<tspan sodipodi:role="line">#AAFF2A(170,255, 42)</tspan>
+<tspan sodipodi:role="line">#AAFF55(170,255, 85)</tspan>
+<tspan sodipodi:role="line">#AAFF7F(170,255,127)</tspan>
+<tspan sodipodi:role="line">#AAFFAA(170,255,170)</tspan>
+<tspan sodipodi:role="line">#AAFFD4(170,255,212)</tspan>
+<tspan sodipodi:role="line">#AAFFFF(170,255,255)</tspan>
+<tspan sodipodi:role="line">#D40000(212,  0,  0)</tspan>
+<tspan sodipodi:role="line">#D4002A(212,  0, 42)</tspan>
+<tspan sodipodi:role="line">#D40055(212,  0, 85)</tspan>
+<tspan sodipodi:role="line">#D4007F(212,  0,127)</tspan>
+<tspan sodipodi:role="line">#D400AA(212,  0,170)</tspan>
+<tspan sodipodi:role="line">#D400D4(212,  0,212)</tspan>
+<tspan sodipodi:role="line">#D400FF(212,  0,255)</tspan>
+<tspan sodipodi:role="line">#D42A00(212, 42,  0)</tspan>
+<tspan sodipodi:role="line">#D42A2A(212, 42, 42)</tspan>
+<tspan sodipodi:role="line">#D42A55(212, 42, 85)</tspan>
+<tspan sodipodi:role="line">#D42A7F(212, 42,127)</tspan>
+<tspan sodipodi:role="line">#D42AAA(212, 42,170)</tspan>
+<tspan sodipodi:role="line">#D42AD4(212, 42,212)</tspan>
+<tspan sodipodi:role="line">#D42AFF(212, 42,255)</tspan>
+<tspan sodipodi:role="line">#D45500(212, 85,  0)</tspan>
+<tspan sodipodi:role="line">#D4552A(212, 85, 42)</tspan>
+<tspan sodipodi:role="line">#D45555(212, 85, 85)</tspan>
+<tspan sodipodi:role="line">#D4557F(212, 85,127)</tspan>
+<tspan sodipodi:role="line">#D455AA(212, 85,170)</tspan>
+<tspan sodipodi:role="line">#D455D4(212, 85,212)</tspan>
+<tspan sodipodi:role="line">#D455FF(212, 85,255)</tspan>
+<tspan sodipodi:role="line">#D47F00(212,127,  0)</tspan>
+<tspan sodipodi:role="line">#D47F2A(212,127, 42)</tspan>
+<tspan sodipodi:role="line">#D47F55(212,127, 85)</tspan>
+<tspan sodipodi:role="line">#D47F7F(212,127,127)</tspan>
+<tspan sodipodi:role="line">#D47FAA(212,127,170)</tspan>
+<tspan sodipodi:role="line">#D47FD4(212,127,212)</tspan>
+<tspan sodipodi:role="line">#D47FFF(212,127,255)</tspan>
+<tspan sodipodi:role="line">#D4AA00(212,170,  0)</tspan>
+<tspan sodipodi:role="line">#D4AA2A(212,170, 42)</tspan>
+<tspan sodipodi:role="line">#D4AA55(212,170, 85)</tspan>
+<tspan sodipodi:role="line">#D4AA7F(212,170,127)</tspan>
+<tspan sodipodi:role="line">#D4AAAA(212,170,170)</tspan>
+<tspan sodipodi:role="line">#D4AAD4(212,170,212)</tspan>
+<tspan sodipodi:role="line">#D4AAFF(212,170,255)</tspan>
+<tspan sodipodi:role="line">#D4D400(212,212,  0)</tspan>
+<tspan sodipodi:role="line">#D4D42A(212,212, 42)</tspan>
+<tspan sodipodi:role="line">#D4D455(212,212, 85)</tspan>
+<tspan sodipodi:role="line">#D4D47F(212,212,127)</tspan>
+<tspan sodipodi:role="line">#D4D4AA(212,212,170)</tspan>
+<tspan sodipodi:role="line">#D4D4D4(212,212,212)</tspan>
+<tspan sodipodi:role="line">#D4D4FF(212,212,255)</tspan>
+<tspan sodipodi:role="line">#D4FF00(212,255,  0)</tspan>
+<tspan sodipodi:role="line">#D4FF2A(212,255, 42)</tspan>
+<tspan sodipodi:role="line">#D4FF55(212,255, 85)</tspan>
+<tspan sodipodi:role="line">#D4FF7F(212,255,127)</tspan>
+<tspan sodipodi:role="line">#D4FFAA(212,255,170)</tspan>
+<tspan sodipodi:role="line">#D4FFD4(212,255,212)</tspan>
+<tspan sodipodi:role="line">#D4FFFF(212,255,255)</tspan>
+<tspan sodipodi:role="line">#FF0000(255,  0,  0)</tspan>
+<tspan sodipodi:role="line">#FF002A(255,  0, 42)</tspan>
+<tspan sodipodi:role="line">#FF0055(255,  0, 85)</tspan>
+<tspan sodipodi:role="line">#FF007F(255,  0,127)</tspan>
+<tspan sodipodi:role="line">#FF00AA(255,  0,170)</tspan>
+<tspan sodipodi:role="line">#FF00D4(255,  0,212)</tspan>
+<tspan sodipodi:role="line">#FF00FF(255,  0,255)</tspan>
+<tspan sodipodi:role="line">#FF2A00(255, 42,  0)</tspan>
+<tspan sodipodi:role="line">#FF2A2A(255, 42, 42)</tspan>
+<tspan sodipodi:role="line">#FF2A55(255, 42, 85)</tspan>
+<tspan sodipodi:role="line">#FF2A7F(255, 42,127)</tspan>
+<tspan sodipodi:role="line">#FF2AAA(255, 42,170)</tspan>
+<tspan sodipodi:role="line">#FF2AD4(255, 42,212)</tspan>
+<tspan sodipodi:role="line">#FF2AFF(255, 42,255)</tspan>
+<tspan sodipodi:role="line">#FF5500(255, 85,  0)</tspan>
+<tspan sodipodi:role="line">#FF552A(255, 85, 42)</tspan>
+<tspan sodipodi:role="line">#FF5555(255, 85, 85)</tspan>
+<tspan sodipodi:role="line">#FF557F(255, 85,127)</tspan>
+<tspan sodipodi:role="line">#FF55AA(255, 85,170)</tspan>
+<tspan sodipodi:role="line">#FF55D4(255, 85,212)</tspan>
+<tspan sodipodi:role="line">#FF55FF(255, 85,255)</tspan>
+<tspan sodipodi:role="line">#FF7F00(255,127,  0)</tspan>
+<tspan sodipodi:role="line">#FF7F2A(255,127, 42)</tspan>
+<tspan sodipodi:role="line">#FF7F55(255,127, 85)</tspan>
+<tspan sodipodi:role="line">#FF7F7F(255,127,127)</tspan>
+<tspan sodipodi:role="line">#FF7FAA(255,127,170)</tspan>
+<tspan sodipodi:role="line">#FF7FD4(255,127,212)</tspan>
+<tspan sodipodi:role="line">#FF7FFF(255,127,255)</tspan>
+<tspan sodipodi:role="line">#FFAA00(255,170,  0)</tspan>
+<tspan sodipodi:role="line">#FFAA2A(255,170, 42)</tspan>
+<tspan sodipodi:role="line">#FFAA55(255,170, 85)</tspan>
+<tspan sodipodi:role="line">#FFAA7F(255,170,127)</tspan>
+<tspan sodipodi:role="line">#FFAAAA(255,170,170)</tspan>
+<tspan sodipodi:role="line">#FFAAD4(255,170,212)</tspan>
+<tspan sodipodi:role="line">#FFAAFF(255,170,255)</tspan>
+<tspan sodipodi:role="line">#FFD400(255,212,  0)</tspan>
+<tspan sodipodi:role="line">#FFD42A(255,212, 42)</tspan>
+<tspan sodipodi:role="line">#FFD455(255,212, 85)</tspan>
+<tspan sodipodi:role="line">#FFD47F(255,212,127)</tspan>
+<tspan sodipodi:role="line">#FFD4AA(255,212,170)</tspan>
+<tspan sodipodi:role="line">#FFD4D4(255,212,212)</tspan>
+<tspan sodipodi:role="line">#FFD4FF(255,212,255)</tspan>
+<tspan sodipodi:role="line">#FFFF00(255,255,  0)</tspan>
+<tspan sodipodi:role="line">#FFFF2A(255,255, 42)</tspan>
+<tspan sodipodi:role="line">#FFFF55(255,255, 85)</tspan>
+<tspan sodipodi:role="line">#FFFF7F(255,255,127)</tspan>
+<tspan sodipodi:role="line">#FFFFAA(255,255,170)</tspan>
+<tspan sodipodi:role="line">#FFFFD4(255,255,212)</tspan>
+<tspan sodipodi:role="line">#FFFFFF(255,255,255)</tspan>
+</text>
+-->
+       </g>
+  </svg>
+<!--
+name some-name
+nbits 25
+0000101001011001110110110
+0000101001011001011100111
+0000101001010111101001111
+0000101001010111100001110
+-->

@@ -19,7 +19,7 @@ class Aruco
 
     typedef std::uint64_t pattern_type;
     typedef std::ostream ostream_type;
-    typedef std::array< std::uint8_t, 2> board_type;
+    typedef std::array< std::uint16_t, 2> board_type;
 
     scalar_type m_square = 6;
     pattern_type m_pattern;
@@ -92,15 +92,19 @@ class Aruco
    }
  };
 
+#define TO10(a) ( ('0' <= (a) ) && ( (a) <= '9' ) ? (a)-'0' : (a)-'a' + 10 )
+
 class Page
  {
   public:
     typedef double scalar_type;
+    typedef std::uint16_t size_type;
+
     typedef Aruco aruco_type;
     typedef std::array<scalar_type, 2 > uv_type;
     typedef std::string color_type;
 
-    typedef std::array< std::uint8_t, 2> board_type;
+    typedef std::array< std::uint16_t, 2> board_type;
 
     typedef std::array<Aruco, 4 > aruco_vector_type;
     typedef std::ostream ostream_type;
@@ -108,11 +112,12 @@ class Page
 
   public:
     aruco_vector_type m_av;
-    board_type m_board = { 6,16};
+    board_type m_board = { 6, 16 };
     table_type m_table={"black","yellow","green","blue","red","cyan","magenta","yellow","aqua" };
     uv_type    m_canvas={ 210, 297};
     uv_type    m_margin={ 20, 20};
     scalar_type m_square = -1;
+    bool m_legend = true;
    Page( ){}
 
    void print( ostream_type & ofs )
@@ -185,18 +190,40 @@ class Page
        }
        ofs <<"       </g>" << std::endl;
 
+      if( false == m_legend )
+       {
+        ofs << "<!-- ";
+       }
       ofs << "<text fill=\"rgb(160,160,160)\""
           <<        " transform=\"translate( " << lo[0] - m_av[2].size( )[0] << " " << lo[1] +10 << ")\" "
-          <<"  style=\"font-size:" << (4) << ";" << "font-family:'Courier New'"
+          <<"  style=\"font-size:" << (3.8) << ";" << "font-family:'Courier New'"
                 "\" >" << std::endl;
         for( auto const& color: m_table )
          {
-          ofs << "<tspan sodipodi:role=\"line\">" << color << "</tspan>" << std::endl;
+          ofs << "<tspan sodipodi:role=\"line\">";
+          ofs << color;
+          if( ( 7 == color.size() ) && ( '#' == color[0] ) )
+           {
+            ofs << "(" ;
+            ofs << std::setw(3) << TO10(tolower(color[1])) * 16 + TO10(tolower(color[2])) ;
+            ofs << "," ;
+            ofs << std::setw(3) << TO10(tolower(color[3])) * 16 + TO10(tolower(color[4])) ;
+            ofs << ","  ;
+            ofs << std::setw(3) << TO10(tolower(color[5])) * 16 + TO10(tolower(color[6])) ;
+           ofs << ")" ;
+
+           }
+
+          ofs << "</tspan>" << std::endl;
          }
 
         ofs << "</text>" << std::endl;
 
-          ofs << std::endl;
+      if( false == m_legend )
+       {
+        ofs << "-->";
+       }
+      ofs << std::endl;
 
      ofs <<"       </g>" << std::endl;
      ofs <<"  </svg>" << std::endl;
@@ -204,17 +231,19 @@ class Page
      ofs << "<!--" << std::endl;
      ofs << "name " <<  "some-name" << std::endl;
      ofs << "nbits " <<  m_av[0].m_board[0] * m_av[0].m_board[1]<< std::endl;
-     ofs <<  std::setw( m_av[0].m_board[0] * m_av[0].m_board[1]  ) << std::setfill('0') << std::setbase( 2 ) << m_av[0].m_pattern << std::endl;
-     ofs <<  std::setw( m_av[0].m_board[0] * m_av[0].m_board[1]  ) << std::setfill('0') << std::setbase( 2 ) << m_av[1].m_pattern << std::endl;
-     ofs <<  std::setw( m_av[0].m_board[0] * m_av[0].m_board[1]  ) << std::setfill('0') << std::setbase( 2 ) << m_av[2].m_pattern << std::endl;
-     ofs <<  std::setw( m_av[0].m_board[0] * m_av[0].m_board[1]  ) << std::setfill('0') << std::setbase( 2 ) << m_av[3].m_pattern << std::endl;
+     ofs <<  std::setw( m_av[0].m_board[0] * m_av[0].m_board[1]  ) << std::setfill('0')<< std::setw(25) << std::bitset<25>( m_av[0].m_pattern ) << std::endl;
+     ofs <<  std::setw( m_av[0].m_board[0] * m_av[0].m_board[1]  ) << std::setfill('0')<< std::setw(25) << std::bitset<25>( m_av[1].m_pattern ) << std::endl;
+     ofs <<  std::setw( m_av[0].m_board[0] * m_av[0].m_board[1]  ) << std::setfill('0')<< std::setw(25) << std::bitset<25>( m_av[2].m_pattern ) << std::endl;
+     ofs <<  std::setw( m_av[0].m_board[0] * m_av[0].m_board[1]  ) << std::setfill('0')<< std::setw(25) << std::bitset<25>( m_av[3].m_pattern ) << std::endl;
      ofs << "-->" << std::endl;
     }
 
 
  };
 
-typedef std::array<std::uint8_t,3> color_t;
+typedef std::array<std::uint16_t,3> color_t;
+typedef std::array<double,3> colorDouble_t;
+typedef std::array<std::uint16_t,3> size2d_t;
 
 void BW( std::array<std::uint64_t, 4 > const& pattern )
  {
@@ -467,12 +496,12 @@ void scale64( std::string const& fileName, color_t const& color, std::array<std:
     for( int parameter=0; parameter< 256; parameter += 8 )
        {
         std::string text="#000000";
-        
+
         color_t current;
         current[0] = std::uint8_t( ( 255 - color[0] ) * (parameter/255.0) + color[0]);
         current[1] = std::uint8_t( ( 255 - color[1] ) * (parameter/255.0) + color[1]);
         current[2] = std::uint8_t( ( 255 - color[2] ) * (parameter/255.0) + color[2]);
-        
+
         text[1] = number2hex( current[0]/16 );  text[2] = number2hex( current[0]%16 ) ;
         text[3] = number2hex( current[1]/16 );  text[4] = number2hex( current[1]%16 ) ;
         text[5] = number2hex( current[2]/16 );  text[6] = number2hex( current[2]%16 ) ;
@@ -529,7 +558,7 @@ void cube64( std::array<std::uint64_t, 4 > const& pattern  )
     page.m_av[3].m_pattern = pattern[3];  page.m_av[3].m_board = { 5, 5 }; page.m_av[3].m_square = 7;
 
     page.m_table.clear();
-    for( int red=0; red< 256; red += 85 )
+    for( int red=0; red< 256; red+= 85 )
      for( int grn=0; grn< 256; grn+= 85 )
       for( int blu=0; blu< 256; blu+= 85 )
        {
@@ -544,39 +573,125 @@ void cube64( std::array<std::uint64_t, 4 > const& pattern  )
   page.print( std::ofstream("A3-cube64.svg") );
  }
 
+void cubeG( std::string const& fileName, colorDouble_t const& step, std::array<std::uint64_t, 4 > const& pattern  )
+ {
+  Page page;
+
+    page.m_canvas = { 297, 420 };
+
+    page.m_margin={ 23, 23 };
+    page.m_square = -1;
+
+    page.m_av[0].m_pattern = pattern[0];  page.m_av[0].m_board = { 5, 5 }; page.m_av[0].m_square = 7;
+    page.m_av[1].m_pattern = pattern[1];  page.m_av[1].m_board = { 5, 5 }; page.m_av[1].m_square = 7;
+    page.m_av[2].m_pattern = pattern[2];  page.m_av[2].m_board = { 5, 5 }; page.m_av[2].m_square = 7;
+    page.m_av[3].m_pattern = pattern[3];  page.m_av[3].m_board = { 5, 5 }; page.m_av[3].m_square = 7;
+
+    page.m_table.clear();
+    for( double red=0; red< 256; red+= step[0] )
+     for( double grn=0; grn< 256; grn+= step[1] )
+      for( double blu=0; blu< 256; blu+= step[2] )
+       {
+        std::string color="#000000";
+        color[1] = "0123456789ABCDEF"[std::uint16_t(red)/16] ;  color[2] = "0123456789ABCDEF"[std::uint16_t(red)%16] ;
+        color[3] = "0123456789ABCDEF"[std::uint16_t(grn)/16] ;  color[4] = "0123456789ABCDEF"[std::uint16_t(grn)%16] ;
+        color[5] = "0123456789ABCDEF"[std::uint16_t(blu)/16] ;  color[6] = "0123456789ABCDEF"[std::uint16_t(blu)%16] ;
+
+        page.m_table.push_back( color );
+       }
+
+    int space_w = ( int )( page.m_canvas[0] - 2* page.m_margin[0] - 2 * 7 * page.m_av[0].m_square );
+    int space_h = ( int )( page.m_canvas[1] - 2* page.m_margin[1] - 2 * 7 * page.m_av[0].m_square );
+
+    double unit = sqrt(  page.m_table.size() * ( space_w / (double)space_h ) );
+    int h = int( unit + 0.5 );
+    int w = int( unit * ( space_h / (double)space_w ) + 0.5 );
+    if( h*w < page.m_table.size() ) w++;
+    page.m_board = { (std::uint16_t)h, (std::uint16_t)w };
+
+   if( 40 < h*w ) page.m_legend = false;
+  page.print( std::ofstream(fileName) );
+ }
+
+
+
+void lineA3
+ (
+   std::string const& fileName
+  ,color_t const& start
+  ,colorDouble_t const& step
+  ,Aruco::board_type const& board
+  ,std::array<std::uint64_t, 4 > const& pattern
+ )
+ {
+  Page page;
+    page.m_canvas = { 297, 420 };
+    page.m_board = board;
+
+    page.m_margin={ 23, 23 };
+    page.m_square = -1;
+
+    page.m_av[0].m_pattern = pattern[0];  page.m_av[0].m_board = { 5, 5 }; page.m_av[0].m_square = 7;
+    page.m_av[1].m_pattern = pattern[1];  page.m_av[1].m_board = { 5, 5 }; page.m_av[1].m_square = 7;
+    page.m_av[2].m_pattern = pattern[2];  page.m_av[2].m_board = { 5, 5 }; page.m_av[2].m_square = 7;
+    page.m_av[3].m_pattern = pattern[3];  page.m_av[3].m_board = { 5, 5 }; page.m_av[3].m_square = 7;
+
+    if( board[0] * board[1] < 50 ) page.m_legend = true; else page.m_legend = false;
+
+    page.m_table.clear();
+    int total = board[0]*board[1];
+
+    for( int index=0; index < total ; ++index )
+     {
+      color_t current;
+      current[0] = std::uint8_t( 0.01 + start[0] + index * step[0] );
+      current[1] = std::uint8_t( 0.01 + start[1] + index * step[1] );
+      current[2] = std::uint8_t( 0.01 + start[2] + index * step[2] );
+
+      std::string color="#000000";
+      color[1] = "0123456789ABCDEF"[current[0]/16] ;  color[2] = "0123456789ABCDEF"[current[0]%16] ;
+      color[3] = "0123456789ABCDEF"[current[1]/16] ;  color[4] = "0123456789ABCDEF"[current[1]%16] ;
+      color[5] = "0123456789ABCDEF"[current[2]/16] ;  color[6] = "0123456789ABCDEF"[current[2]%16] ;
+
+      page.m_table.push_back( color );
+     }
+
+  page.print( std::ofstream( fileName ) );
+ }
 
 void main()
  {
-  BW(     { 0b0000111110001111010111100, 0b0000110110111010000101011, 0b0000100001101101101110110, 0b0000100001100111110001011 } );
-  gray06( { 0b0000100001110011011001011, 0b0000100001110001101110110, 0b0000100001101111110001011, 0b0000100001101101101110110 } );
-  gray32( { 0b0000100001110101001001111, 0b0000100001110011011001011, 0b0000100001110001101110110, 0b0000100001101111110001011 } );
+  BW(                                                                                                  { 0b0000100011100001110100111,0b0000100011011111001001110,0b0000100011011111000001111,0b0000100011011001110100111} );
+  gray06(                                                                                              { 0b0000101011101111011001011,0b0000101011101101000110110,0b0000101011100111011001011,0b0000101011100101000110110} );
+  gray32(                                                                                              { 0b0000101011101101000110110,0b0000101011100111011001011,0b0000101011100101000110110,0b0000101011011111001001111} );
+  EIGHT(                                                                                               { 0b0000101011100111011001011,0b0000101011100101000110110,0b0000101011011111001001111,0b0000101011011011010110010} );
+  cube32(                                                                                              { 0b0000101011100101000110110,0b0000101011011111001001111,0b0000101011011011010110010,0b0000101011010111001001111} );
+  cube64(                                                                                              { 0b0000101011011111001001111,0b0000101011011011010110010,0b0000101011010111001001111,0b0000101011010011010110010} );
+  red32L(                                                                                              { 0b0000101011011011010110010,0b0000101011010111001001111,0b0000101011010011010110010,0b0000101001111101110110110} );
+  scale64( "A3-red64.svg",      { 255,   0,   0 },                                                     { 0b0000101011010111001001111,0b0000101011010011010110010,0b0000101001111101110110110,0b0000101001111101011100111} );
+  scale64( "A3-green64.svg",    {   0, 255,   0 },                                                     { 0b0000101011010011010110010,0b0000101001111101110110110,0b0000101001111101011100111,0b0000101001111101000001111} );
+  scale64( "A3-blue64.svg",     {   0,   0, 255 },                                                     { 0b0000101001111101110110110,0b0000101001111101011100111,0b0000101001111101000001111,0b0000101001111011110110110} );
+  scale64( "A3-cyan64.svg",     {   0, 255, 255 },                                                     { 0b0000101001111101011100111,0b0000101001111101000001111,0b0000101001111011110110110,0b0000101001111011110011011} );
+  scale64( "A3-magenta64.svg",  { 255,   0, 255 },                                                     { 0b0000101001111101000001111,0b0000101001111011110110110,0b0000101001111011110011011,0b0000101001111011010001011} );
+  scale64( "A3-yellow64.svg",   { 255, 255,   0 },                                                     { 0b0000101001111011110110110,0b0000101001111011110011011,0b0000101001111011010001011,0b0000101001110101110110110} );
+  scale32D( "A4-redD.svg",      { 255,   0,   0 },                                                     { 0b0000101001111011110011011,0b0000101001111011010001011,0b0000101001110101110110110,0b0000101001110101011100111} );
+  scale32D( "A4-greenD.svg",    {   0, 255,   0 },                                                     { 0b0000101001111011010001011,0b0000101001110101110110110,0b0000101001110101011100111,0b0000101001110101000001111} );
+  scale32D( "A4-blueD.svg",     {   0,   0, 255 },                                                     { 0b0000101001110101110110110,0b0000101001110101011100111,0b0000101001110101000001111,0b0000101001110011110110110} );
+  scale32D( "A4-cyanD.svg",     {   0, 255, 255 },                                                     { 0b0000101001110101011100111,0b0000101001110101000001111,0b0000101001110011110110110,0b0000101001110011110011011} );
+  scale32D( "A4-magentaD.svg",  { 255,   0, 255 },                                                     { 0b0000101001110101000001111,0b0000101001110011110110110,0b0000101001110011110011011,0b0000101001110011010001011} );
+  scale32D( "A4-yellowD.svg",   { 255, 255,   0 },                                                     { 0b0000101001110011110110110,0b0000101001110011110011011,0b0000101001110011010001011,0b0000101001101111111001011} );
+  lineA3( "A3-gray002.svg", { 0, 0, 0}, { 255.0/( 1* 2 ), 255.0/( 1* 2 ), 255.0/( 1* 2 ) }, { 1,  2 }, { 0b0000101001110011110011011,0b0000101001110011010001011,0b0000101001101111111001011,0b0000101001101111110001010} );
+  lineA3( "A3-gray008.svg", { 0, 0, 0}, { 255.0/( 2* 4 ), 255.0/( 2* 4 ), 255.0/( 2* 4 ) }, { 2,  4 }, { 0b0000101001110011010001011,0b0000101001101111111001011,0b0000101001101111110001010,0b0000101001101001110110110} );
+  lineA3( "A3-gray032.svg", { 0, 0, 0}, { 255.0/( 4* 8 ), 255.0/( 4* 8 ), 255.0/( 4* 8 ) }, { 4,  8 }, { 0b0000101001101111111001011,0b0000101001101111110001010,0b0000101001101001110110110,0b0000101001101001011100111} );
+  lineA3( "A3-gray128.svg", { 0, 0, 0}, { 255.0/( 8*16 ), 255.0/( 8*16 ), 255.0/( 8*16 ) }, { 8, 16 }, { 0b0000101001101111110001010,0b0000101001101001110110110,0b0000101001101001011100111,0b0000101001100111111001011} );
+  lineA3( "A3-gray006.svg", { 0, 0, 0}, { 255.0/( 2* 3 ), 255.0/( 2* 3 ), 255.0/( 2* 3 ) }, { 2,  3 }, { 0b0000101001101001110110110,0b0000101001101001011100111,0b0000101001100111111001011,0b0000101001100111110001010} );
+  lineA3( "A3-gray024.svg", { 0, 0, 0}, { 255.0/( 4* 6 ), 255.0/( 4* 6 ), 255.0/( 4* 6 ) }, { 4,  6 }, { 0b0000101001101001011100111,0b0000101001100111111001011,0b0000101001100111110001010,0b0000101001100001110110110} );
+  lineA3( "A3-gray096.svg", { 0, 0, 0}, { 255.0/( 8*12 ), 255.0/( 8*12 ), 255.0/( 8*12 ) }, { 8, 12 }, { 0b0000101001100111111001011,0b0000101001100111110001010,0b0000101001100001110110110,0b0000101001100001011100111} );
+  cubeG( "A3-cube1.svg", {255/1.0,255/1.0,255/1.0},                                                    { 0b0000101001100111110001010,0b0000101001100001110110110,0b0000101001100001011100111,0b0000101001011111101001111} );
+  cubeG( "A3-cube2.svg", {255/2.0,255/2.0,255/2.0},                                                    { 0b0000101001100001110110110,0b0000101001100001011100111,0b0000101001011111101001111,0b0000101001011111100001110} );
+  cubeG( "A3-cube3.svg", {255/3.0,255/3.0,255/3.0},                                                    { 0b0000101001100001011100111,0b0000101001011111101001111,0b0000101001011111100001110,0b0000101001011001110110110} );
+  cubeG( "A3-cube4.svg", {255/4.0,255/4.0,255/4.0},                                                    { 0b0000101001011111101001111,0b0000101001011111100001110,0b0000101001011001110110110,0b0000101001011001011100111} );
+  cubeG( "A3-cube5.svg", {255/5.0,255/5.0,255/5.0},                                                    { 0b0000101001011111100001110,0b0000101001011001110110110,0b0000101001011001011100111,0b0000101001010111101001111} );
+  cubeG( "A3-cube6.svg", {255/6.0,255/6.0,255/6.0},                                                    { 0b0000101001011001110110110,0b0000101001011001011100111,0b0000101001010111101001111,0b0000101001010111100001110} );
 
-  EIGHT(  { 0b0000100001111001101110110, 0b0000100001110101001001111, 0b0000100001110011011001011, 0b0000100001110001101110110 } );
-
-  cube32( { 0b0000100001111011011001011, 0b0000100001111001101110110, 0b0000100001110101001001111, 0b0000100001110011011001011 } );
-  cube64( { 0b0000100001111101001001111, 0b0000100001111011011001011, 0b0000100001111001101110110, 0b0000100001110101001001111 } );
-
-  red32L( { 0b0000100011010001110100111, 0b0000100011010001011110110, 0b0000100001111101001001111, 0b0000100001111011011001011 } );
- 
-  scale64( "A3-red64.svg",     {255,0,0}, { 0b0000100011010111001001110, 0b0000100011010111000001111, 0b0000100011010001110100111, 0b0000100011010001011110110 } );
-  scale64( "A3-green64.svg",   {0,255,0}, { 0b0000100011011001011110110, 0b0000100011010111001001110, 0b0000100011010111000001111, 0b0000100011010001110100111 } );
-  scale64( "A3-blue64.svg",    {0,0,255},   { 0b0000100011011001110100111, 0b0000100011011001011110110, 0b0000100011010111001001110, 0b0000100011010111000001111 } );
-
-  scale64( "A3-cyan64.svg",    { 0, 255,255}, { 0b0000100011011111000001111, 0b0000100011011001110100111, 0b0000100011011001011110110, 0b0000100011010111001001110 } );
-  scale64( "A3-magenta64.svg", { 255, 0,255}, { 0b0000100011011111001001110, 0b0000100011011111000001111, 0b0000100011011001110100111, 0b0000100011011001011110110 } );
-  scale64( "A3-yellow64.svg",  { 255, 255,0}, { 0b0000100011100001110100111, 0b0000100011011111001001110, 0b0000100011011111000001111, 0b0000100011011001110100111 } );
-
-
-  scale32D(  "A4-redD.svg", { 255, 0, 0}, { 0b0000100011010001011110110, 0b0000100001111101001001111, 0b0000100001111011011001011, 0b0000100001111001101110110 } );
-
-  scale32D( "A4-greenD.svg", { 0, 255, 0}, {   0b0000100011100111010001011, 0b0000100011100001110100111, 0b0000100011011111001001110, 0b0000100011011111000001111 } );
-  scale32D( "A4-blueD.svg",  { 0, 0, 255}, {   0b0000100011100111011001010, 0b0000100011100111010001011, 0b0000100011100001110100111, 0b0000100011011111001001110 } );
-  scale32D( "A4-cyanD.svg",     {0,255,255}, {   0b0000100011101001110100111, 0b0000100011100111011001010, 0b0000100011100111010001011, 0b0000100011100001110100111 } );
-  scale32D( "A4-magentaD.svg",  {255,0,255}, {   0b0000100011101111010001011, 0b0000100011101001110100111, 0b0000100011100111011001010, 0b0000100011100111010001011 } );
-  scale32D( "A4-yellowD.svg",   {255,255,0}, {   0b0000100011101111011001010, 0b0000100011101111010001011, 0b0000100011101001110100111, 0b0000100011100111011001010 } );
-
-  // TODO blue32D( {    TODO, TODO, TODO, TODO } );
-  // TODO cyan32D( {    TODO, TODO, TODO, TODO } );
-  // TODO yellow32D( {  TODO, TODO, TODO, TODO } );
-  // TODO magenta32D( { TODO, TODO, TODO, TODO } );
  }
