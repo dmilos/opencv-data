@@ -63,17 +63,17 @@
 <rect width="76.5" height="76.5" x="0" y="0"  style="fill:#000000;"  />
 <rect width="76.5" height="76.5" x="76.5" y="0"  style="fill:#2A2A2A;"  />
 <rect width="76.5" height="76.5" x="0" y="76.5"  style="fill:#555555;"  />
-<rect width="76.5" height="76.5" x="76.5" y="76.5"  style="fill:#7F7F7F;"  />
+<rect width="76.5" height="76.5" x="76.5" y="76.5"  style="fill:#808080;"  />
 <rect width="76.5" height="76.5" x="0" y="153"  style="fill:#AAAAAA;"  />
-<rect width="76.5" height="76.5" x="76.5" y="153"  style="fill:#D4D4D4;"  />
+<rect width="76.5" height="76.5" x="76.5" y="153"  style="fill:#D5D5D5;"  />
        </g>
 <text fill="rgb(160,160,160)" transform="translate( 23 105.25)"   style="font-size:3.8;font-family:'Courier New'" >
 <tspan sodipodi:role="line">#000000(  0,  0,  0)</tspan>
 <tspan sodipodi:role="line">#2A2A2A( 42, 42, 42)</tspan>
 <tspan sodipodi:role="line">#555555( 85, 85, 85)</tspan>
-<tspan sodipodi:role="line">#7F7F7F(127,127,127)</tspan>
+<tspan sodipodi:role="line">#808080(128,128,128)</tspan>
 <tspan sodipodi:role="line">#AAAAAA(170,170,170)</tspan>
-<tspan sodipodi:role="line">#D4D4D4(212,212,212)</tspan>
+<tspan sodipodi:role="line">#D5D5D5(213,213,213)</tspan>
 </text>
 
        </g>

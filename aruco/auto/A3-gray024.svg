@@ -63,53 +63,53 @@
 <rect width="38.25" height="38.25" x="0" y="0"  style="fill:#000000;"  />
 <rect width="38.25" height="38.25" x="38.25" y="0"  style="fill:#0A0A0A;"  />
 <rect width="38.25" height="38.25" x="76.5" y="0"  style="fill:#151515;"  />
-<rect width="38.25" height="38.25" x="114.75" y="0"  style="fill:#1F1F1F;"  />
+<rect width="38.25" height="38.25" x="114.75" y="0"  style="fill:#202020;"  />
 <rect width="38.25" height="38.25" x="0" y="38.25"  style="fill:#2A2A2A;"  />
 <rect width="38.25" height="38.25" x="38.25" y="38.25"  style="fill:#353535;"  />
-<rect width="38.25" height="38.25" x="76.5" y="38.25"  style="fill:#3F3F3F;"  />
+<rect width="38.25" height="38.25" x="76.5" y="38.25"  style="fill:#404040;"  />
 <rect width="38.25" height="38.25" x="114.75" y="38.25"  style="fill:#4A4A4A;"  />
 <rect width="38.25" height="38.25" x="0" y="76.5"  style="fill:#555555;"  />
-<rect width="38.25" height="38.25" x="38.25" y="76.5"  style="fill:#5F5F5F;"  />
+<rect width="38.25" height="38.25" x="38.25" y="76.5"  style="fill:#606060;"  />
 <rect width="38.25" height="38.25" x="76.5" y="76.5"  style="fill:#6A6A6A;"  />
-<rect width="38.25" height="38.25" x="114.75" y="76.5"  style="fill:#747474;"  />
-<rect width="38.25" height="38.25" x="0" y="114.75"  style="fill:#7F7F7F;"  />
+<rect width="38.25" height="38.25" x="114.75" y="76.5"  style="fill:#757575;"  />
+<rect width="38.25" height="38.25" x="0" y="114.75"  style="fill:#808080;"  />
 <rect width="38.25" height="38.25" x="38.25" y="114.75"  style="fill:#8A8A8A;"  />
-<rect width="38.25" height="38.25" x="76.5" y="114.75"  style="fill:#949494;"  />
-<rect width="38.25" height="38.25" x="114.75" y="114.75"  style="fill:#9F9F9F;"  />
+<rect width="38.25" height="38.25" x="76.5" y="114.75"  style="fill:#959595;"  />
+<rect width="38.25" height="38.25" x="114.75" y="114.75"  style="fill:#A0A0A0;"  />
 <rect width="38.25" height="38.25" x="0" y="153"  style="fill:#AAAAAA;"  />
-<rect width="38.25" height="38.25" x="38.25" y="153"  style="fill:#B4B4B4;"  />
-<rect width="38.25" height="38.25" x="76.5" y="153"  style="fill:#BFBFBF;"  />
-<rect width="38.25" height="38.25" x="114.75" y="153"  style="fill:#C9C9C9;"  />
-<rect width="38.25" height="38.25" x="0" y="191.25"  style="fill:#D4D4D4;"  />
-<rect width="38.25" height="38.25" x="38.25" y="191.25"  style="fill:#DFDFDF;"  />
-<rect width="38.25" height="38.25" x="76.5" y="191.25"  style="fill:#E9E9E9;"  />
-<rect width="38.25" height="38.25" x="114.75" y="191.25"  style="fill:#F4F4F4;"  />
+<rect width="38.25" height="38.25" x="38.25" y="153"  style="fill:#B5B5B5;"  />
+<rect width="38.25" height="38.25" x="76.5" y="153"  style="fill:#C0C0C0;"  />
+<rect width="38.25" height="38.25" x="114.75" y="153"  style="fill:#CACACA;"  />
+<rect width="38.25" height="38.25" x="0" y="191.25"  style="fill:#D5D5D5;"  />
+<rect width="38.25" height="38.25" x="38.25" y="191.25"  style="fill:#E0E0E0;"  />
+<rect width="38.25" height="38.25" x="76.5" y="191.25"  style="fill:#EAEAEA;"  />
+<rect width="38.25" height="38.25" x="114.75" y="191.25"  style="fill:#F5F5F5;"  />
        </g>
 <text fill="rgb(160,160,160)" transform="translate( 23 105.25)"   style="font-size:3.8;font-family:'Courier New'" >
 <tspan sodipodi:role="line">#000000(  0,  0,  0)</tspan>
 <tspan sodipodi:role="line">#0A0A0A( 10, 10, 10)</tspan>
 <tspan sodipodi:role="line">#151515( 21, 21, 21)</tspan>
-<tspan sodipodi:role="line">#1F1F1F( 31, 31, 31)</tspan>
+<tspan sodipodi:role="line">#202020( 32, 32, 32)</tspan>
 <tspan sodipodi:role="line">#2A2A2A( 42, 42, 42)</tspan>
 <tspan sodipodi:role="line">#353535( 53, 53, 53)</tspan>
-<tspan sodipodi:role="line">#3F3F3F( 63, 63, 63)</tspan>
+<tspan sodipodi:role="line">#404040( 64, 64, 64)</tspan>
 <tspan sodipodi:role="line">#4A4A4A( 74, 74, 74)</tspan>
 <tspan sodipodi:role="line">#555555( 85, 85, 85)</tspan>
-<tspan sodipodi:role="line">#5F5F5F( 95, 95, 95)</tspan>
+<tspan sodipodi:role="line">#606060( 96, 96, 96)</tspan>
 <tspan sodipodi:role="line">#6A6A6A(106,106,106)</tspan>
-<tspan sodipodi:role="line">#747474(116,116,116)</tspan>
-<tspan sodipodi:role="line">#7F7F7F(127,127,127)</tspan>
+<tspan sodipodi:role="line">#757575(117,117,117)</tspan>
+<tspan sodipodi:role="line">#808080(128,128,128)</tspan>
 <tspan sodipodi:role="line">#8A8A8A(138,138,138)</tspan>
-<tspan sodipodi:role="line">#949494(148,148,148)</tspan>
-<tspan sodipodi:role="line">#9F9F9F(159,159,159)</tspan>
+<tspan sodipodi:role="line">#959595(149,149,149)</tspan>
+<tspan sodipodi:role="line">#A0A0A0(160,160,160)</tspan>
 <tspan sodipodi:role="line">#AAAAAA(170,170,170)</tspan>
-<tspan sodipodi:role="line">#B4B4B4(180,180,180)</tspan>
-<tspan sodipodi:role="line">#BFBFBF(191,191,191)</tspan>
-<tspan sodipodi:role="line">#C9C9C9(201,201,201)</tspan>
-<tspan sodipodi:role="line">#D4D4D4(212,212,212)</tspan>
-<tspan sodipodi:role="line">#DFDFDF(223,223,223)</tspan>
-<tspan sodipodi:role="line">#E9E9E9(233,233,233)</tspan>
-<tspan sodipodi:role="line">#F4F4F4(244,244,244)</tspan>
+<tspan sodipodi:role="line">#B5B5B5(181,181,181)</tspan>
+<tspan sodipodi:role="line">#C0C0C0(192,192,192)</tspan>
+<tspan sodipodi:role="line">#CACACA(202,202,202)</tspan>
+<tspan sodipodi:role="line">#D5D5D5(213,213,213)</tspan>
+<tspan sodipodi:role="line">#E0E0E0(224,224,224)</tspan>
+<tspan sodipodi:role="line">#EAEAEA(234,234,234)</tspan>
+<tspan sodipodi:role="line">#F5F5F5(245,245,245)</tspan>
 </text>
 
        </g>

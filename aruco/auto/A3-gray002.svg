@@ -61,11 +61,11 @@
     </g>
   <g  transform="  translate(79.5 348) scale( +1 -1 )" >
 <rect width="138" height="138" x="0" y="0"  style="fill:#000000;"  />
-<rect width="138" height="138" x="0" y="138"  style="fill:#7F7F7F;"  />
+<rect width="138" height="138" x="0" y="138"  style="fill:#808080;"  />
        </g>
 <text fill="rgb(160,160,160)" transform="translate( 30.5 82)"   style="font-size:3.8;font-family:'Courier New'" >
 <tspan sodipodi:role="line">#000000(  0,  0,  0)</tspan>
-<tspan sodipodi:role="line">#7F7F7F(127,127,127)</tspan>
+<tspan sodipodi:role="line">#808080(128,128,128)</tspan>
 </text>
 
        </g>
