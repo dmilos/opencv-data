@@ -51,8 +51,8 @@ class Aruco
       ofs << "-->" << std::endl;
 
       ofs << "<text fill=\"rgb(160,160,160)\""
-          <<        " transform=\"translate( " << (-5) << " " << (-7.5) << ")\" "
-          <<"  font-size=\"" << (4) << "\" >0x";
+          <<        " transform=\"translate( " << (-3) << " " << (-10) << ")\" "
+          <<"  font-size=\"" << (6) << "\" >0x";
       ofs << std::setbase( 16 ) << index << std::setbase( 10 ) ; ofs << "</text>" << std::endl;
 
     for( int y=-1; y< m_board[1]+1; ++y ){
@@ -117,7 +117,7 @@ class Page
     uv_type    m_canvas={ 210, 297};
     uv_type    m_margin={ 20, 20};
     scalar_type m_square = -1;
-    bool m_legend = true;
+    size_type m_legend = 17000000;
    Page( ){}
 
    void print( ostream_type & ofs )
@@ -147,6 +147,16 @@ class Page
 
      ofs <<"  <svg height=\""<< m_canvas[1] << "mm\" width=\""<< m_canvas[0] << "mm\" >" << std::endl;
      ofs <<"  <sodipodi:namedview id=\"base\" inkscape:document-units=\"mm\" />" << std::endl;
+
+      //ofs << "<text fill=\"rgb(160,160,160)\""
+      //    <<"  style=\"font-size:" << (2) << ";" << "font-family:'Courier New'\" "
+      //    <<        " transform=\"translate( " << lo[0] << " " << hi[1] << ") scale( 3.7795277 ) \" "
+      //    <<        " height=\"80\" "
+      //    <<        " width=\"80\" "
+      //          " >" << std::endl;
+      //  ofs << "Title" << std::endl;
+      //  ofs << "</text>" << std::endl;
+
      ofs <<"  <g  transform=\"translate(0 0) scale( 3.7795277 )\">" << std::endl;
 
        ofs <<"    <g  transform=\" translate(" << lo[0]  << " " << hi[1] << ")  \">" << std::endl;
@@ -190,16 +200,18 @@ class Page
        }
        ofs <<"       </g>" << std::endl;
 
-      if( false == m_legend )
-       {
-        ofs << "<!-- ";
-       }
+
       ofs << "<text fill=\"rgb(160,160,160)\""
           <<        " transform=\"translate( " << lo[0] - m_av[2].size( )[0] << " " << lo[1] +10 << ")\" "
-          <<"  style=\"font-size:" << (3.8) << ";" << "font-family:'Courier New'"
-                "\" >" << std::endl;
+          <<"  style=\"font-size:" << (2) << ";" << "font-family:'Courier New'""\" "
+          <<">" << std::endl;
+        size_type index = 0;
         for( auto const& color: m_table )
          {
+         if( index == m_legend )
+          {
+           ofs << "<!-- ";
+          }index++;
           ofs << "<tspan sodipodi:role=\"line\">";
           ofs << color;
           if( ( 7 == color.size() ) && ( '#' == color[0] ) )
@@ -211,18 +223,17 @@ class Page
             ofs << ","  ;
             ofs << std::setw(3) << TO10(tolower(color[5])) * 16 + TO10(tolower(color[6])) ;
            ofs << ")" ;
-
            }
 
           ofs << "</tspan>" << std::endl;
          }
 
+        if( m_legend < index )
+         {
+          ofs << "-->";
+         }
         ofs << "</text>" << std::endl;
 
-      if( false == m_legend )
-       {
-        ofs << "-->";
-       }
       ofs << std::endl;
 
      ofs <<"       </g>" << std::endl;
@@ -237,7 +248,6 @@ class Page
      ofs <<  std::setw( m_av[0].m_board[0] * m_av[0].m_board[1]  ) << std::setfill('0')<< std::setw(25) << std::bitset<25>( m_av[3].m_pattern ) << std::endl;
      ofs << "-->" << std::endl;
     }
-
 
  };
 
@@ -512,7 +522,7 @@ void scale64( std::string const& fileName, color_t const& color, std::array<std:
   page.print( std::ofstream(fileName) );
  }
 
-void cube32( std::array<std::uint64_t, 4 > const& pattern  )
+void cube27( std::array<std::uint64_t, 4 > const& pattern )
  {
   Page page;
 
@@ -531,6 +541,9 @@ void cube32( std::array<std::uint64_t, 4 > const& pattern  )
      for( int grn=0; grn< 256; grn+= 127 )
       for( int blu=0; blu< 256; blu+= 127 )
        {
+        if( 254 == red ) red = 255;
+        if( 254 == grn ) grn = 255;
+        if( 254 == blu ) blu = 255;
         std::string color="#000000";
         color[1] = "0123456789ABCDEF"[red/16] ;  color[2] = "0123456789ABCDEF"[red%16] ;
         color[3] = "0123456789ABCDEF"[grn/16] ;  color[4] = "0123456789ABCDEF"[grn%16] ;
@@ -539,7 +552,7 @@ void cube32( std::array<std::uint64_t, 4 > const& pattern  )
         page.m_table.push_back( color );
        }
 
-  page.print( std::ofstream("A4-cube32.svg") );
+  page.print( std::ofstream("A4-cube27.svg") );
  }
 
 void cube64( std::array<std::uint64_t, 4 > const& pattern  )
@@ -609,10 +622,53 @@ void cubeG( std::string const& fileName, colorDouble_t const& step, std::array<s
     if( h*w < page.m_table.size() ) w++;
     page.m_board = { (std::uint16_t)h, (std::uint16_t)w };
 
-   if( 40 < h*w ) page.m_legend = false;
+  page.m_legend = 100;
   page.print( std::ofstream(fileName) );
  }
 
+void redALL( colorDouble_t const& step  ,std::array<std::uint64_t, 4 > const& pattern )
+ {
+  Page page;
+
+    page.m_canvas = { 297, 420 };
+
+    page.m_margin={ 23, 23 };
+    page.m_square = -1;
+    page.m_legend = 100;
+
+    page.m_av[0].m_pattern = pattern[0];  page.m_av[0].m_board = { 5, 5 }; page.m_av[0].m_square = 7;
+    page.m_av[1].m_pattern = pattern[1];  page.m_av[1].m_board = { 5, 5 }; page.m_av[1].m_square = 7;
+    page.m_av[2].m_pattern = pattern[2];  page.m_av[2].m_board = { 5, 5 }; page.m_av[2].m_square = 7;
+    page.m_av[3].m_pattern = pattern[3];  page.m_av[3].m_board = { 5, 5 }; page.m_av[3].m_square = 7;
+
+    page.m_table.clear();
+    for( double red=0; red< 256; red+= step[0] )
+     for( double grn=0; grn< 256; grn+= step[1] )
+      for( double blu=0; blu< 256; blu+= step[2] )
+       {
+        if( red <= grn ) continue;
+        if( red <= blu ) continue;
+
+        std::string color="#000000";
+        color[1] = "0123456789ABCDEF"[std::uint16_t(red)/16] ;  color[2] = "0123456789ABCDEF"[std::uint16_t(red)%16] ;
+        color[3] = "0123456789ABCDEF"[std::uint16_t(grn)/16] ;  color[4] = "0123456789ABCDEF"[std::uint16_t(grn)%16] ;
+        color[5] = "0123456789ABCDEF"[std::uint16_t(blu)/16] ;  color[6] = "0123456789ABCDEF"[std::uint16_t(blu)%16] ;
+
+        page.m_table.push_back( color );
+       }
+    {
+     int space_w = ( int )( page.m_canvas[0] - 2* page.m_margin[0] - 2 * 7 * page.m_av[0].m_square );
+     int space_h = ( int )( page.m_canvas[1] - 2* page.m_margin[1] - 2 * 7 * page.m_av[0].m_square );
+
+     double unit = sqrt(  page.m_table.size() * ( space_w / (double)space_h ) );
+     int h = int( unit + 0.5 );
+     int w = int( unit * ( space_h / (double)space_w ) + 0.5 );
+     if( h*w < page.m_table.size() ) w++;
+     page.m_board = { (std::uint16_t)h, (std::uint16_t)w };
+    }
+
+   page.print( std::ofstream("A3-red-ALL.svg") );
+ }
 
 
 void lineA3
@@ -636,7 +692,7 @@ void lineA3
     page.m_av[2].m_pattern = pattern[2];  page.m_av[2].m_board = { 5, 5 }; page.m_av[2].m_square = 7;
     page.m_av[3].m_pattern = pattern[3];  page.m_av[3].m_board = { 5, 5 }; page.m_av[3].m_square = 7;
 
-    if( board[0] * board[1] < 50 ) page.m_legend = true; else page.m_legend = false;
+    page.m_legend = 100;
 
     page.m_table.clear();
     int total = board[0]*board[1];
@@ -665,7 +721,7 @@ void main()
   gray06(                                                                                              { 0b0000101011101111011001011,0b0000101011101101000110110,0b0000101011100111011001011,0b0000101011100101000110110} );
   gray32(                                                                                              { 0b0000101011101101000110110,0b0000101011100111011001011,0b0000101011100101000110110,0b0000101011011111001001111} );
   EIGHT(                                                                                               { 0b0000101011100111011001011,0b0000101011100101000110110,0b0000101011011111001001111,0b0000101011011011010110010} );
-  cube32(                                                                                              { 0b0000101011100101000110110,0b0000101011011111001001111,0b0000101011011011010110010,0b0000101011010111001001111} );
+  cube27(                                                                                              { 0b0000101011100101000110110,0b0000101011011111001001111,0b0000101011011011010110010,0b0000101011010111001001111} );
   cube64(                                                                                              { 0b0000101011011111001001111,0b0000101011011011010110010,0b0000101011010111001001111,0b0000101011010011010110010} );
   red32L(                                                                                              { 0b0000101011011011010110010,0b0000101011010111001001111,0b0000101011010011010110010,0b0000101001111101110110110} );
   scale64( "A3-red64.svg",      { 255,   0,   0 },                                                     { 0b0000101011010111001001111,0b0000101011010011010110010,0b0000101001111101110110110,0b0000101001111101011100111} );
@@ -693,5 +749,11 @@ void main()
   cubeG( "A3-cube4.svg", {255/4.0,255/4.0,255/4.0},                                                    { 0b0000101001011111101001111,0b0000101001011111100001110,0b0000101001011001110110110,0b0000101001011001011100111} );
   cubeG( "A3-cube5.svg", {255/5.0,255/5.0,255/5.0},                                                    { 0b0000101001011111100001110,0b0000101001011001110110110,0b0000101001011001011100111,0b0000101001010111101001111} );
   cubeG( "A3-cube6.svg", {255/6.0,255/6.0,255/6.0},                                                    { 0b0000101001011001110110110,0b0000101001011001011100111,0b0000101001010111101001111,0b0000101001010111100001110} );
+
+
+  lineA3( "A3-gray256a.svg", { 0, 0, 0}, { 1, 1, 1 }, { 12,22 }, { 0xffffff,0xffffff,0xffffff,0xffffff} );
+  lineA3( "A3-gray256b.svg", { 0, 0, 0}, { 1, 1, 1 }, { 16,16 }, { 0xffffffff,0xffffffff,0xffffffff,0xffffffff} );
+  cubeG( "A3-cube016.svg", {255/16.0,255/16.0,255/16.0},                                                    { 0,0,0,0} );
+  redALL( {255/7.0,255/7.0,255/7.0}, { 0b0000100011100001110100111,0b0000100011011111001001110,0b0000100011011111000001111,0b0000100011011001110100111}   );
 
  }

@@ -5,7 +5,7 @@
         <g  transform="rotate(+90)">
 <g  transform="translate( 7 7)" >
 <!-- 0b0110110111001101001010000-->
-<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14b3b6</text>
+<text fill="rgb(160,160,160)" transform="translate( -3 -10)"   font-size="6" >0x14b3b6</text>
 <rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:black;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:black;"  /><rect width="7" height="7" x="28" y="0"  style="fill:white;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:white;"  /><rect width="7" height="7" x="7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="7"  style="fill:white;"  /><rect width="7" height="7" x="21" y="7"  style="fill:white;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
@@ -19,7 +19,7 @@
   <g  transform="translate(225 346.607) ">
 <g  transform="translate( 7 7)" >
 <!-- 0b1110011101001101001010000-->
-<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14b2e7</text>
+<text fill="rgb(160,160,160)" transform="translate( -3 -10)"   font-size="6" >0x14b2e7</text>
 <rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:white;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:black;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:white;"  /><rect width="7" height="7" x="7" y="7"  style="fill:white;"  /><rect width="7" height="7" x="14" y="7"  style="fill:white;"  /><rect width="7" height="7" x="21" y="7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
@@ -33,7 +33,7 @@
         <g  transform="rotate(+180)">
 <g  transform="translate( 7 7)" >
 <!-- 0b1111001011110101001010000-->
-<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14af4f</text>
+<text fill="rgb(160,160,160)" transform="translate( -3 -10)"   font-size="6" >0x14af4f</text>
 <rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:white;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:white;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="7"  style="fill:white;"  /><rect width="7" height="7" x="14" y="7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="7"  style="fill:white;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
@@ -48,7 +48,7 @@
         <g  transform="rotate(-90)">
 <g  transform="translate( 7 7)" >
 <!-- 0b0111000011110101001010000-->
-<text fill="rgb(160,160,160)" transform="translate( -5 -7.5)"   font-size="4" >0x14af0e</text>
+<text fill="rgb(160,160,160)" transform="translate( -3 -10)"   font-size="6" >0x14af0e</text>
 <rect width="7" height="7" x="-7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="28" y="-7"  style="fill:black;"  /><rect width="7" height="7" x="35" y="-7"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="0"  style="fill:black;"  /><rect width="7" height="7" x="0" y="0"  style="fill:black;"  /><rect width="7" height="7" x="7" y="0"  style="fill:white;"  /><rect width="7" height="7" x="14" y="0"  style="fill:white;"  /><rect width="7" height="7" x="21" y="0"  style="fill:white;"  /><rect width="7" height="7" x="28" y="0"  style="fill:black;"  /><rect width="7" height="7" x="35" y="0"  style="fill:black;"  />
 <rect width="7" height="7" x="-7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="0" y="7"  style="fill:black;"  /><rect width="7" height="7" x="7" y="7"  style="fill:black;"  /><rect width="7" height="7" x="14" y="7"  style="fill:black;"  /><rect width="7" height="7" x="21" y="7"  style="fill:white;"  /><rect width="7" height="7" x="28" y="7"  style="fill:white;"  /><rect width="7" height="7" x="35" y="7"  style="fill:black;"  />
@@ -411,7 +411,7 @@
 <rect width="10.9286" height="10.9286" x="131.143" y="262.286"  style="fill:gray;"  />
 <rect width="10.9286" height="10.9286" x="142.071" y="262.286"  style="fill:gray;"  />
        </g>
-<!-- <text fill="rgb(160,160,160)" transform="translate( 23 83.3929)"   style="font-size:3.8;font-family:'Courier New'" >
+<text fill="rgb(160,160,160)" transform="translate( 23 83.3929)"   style="font-size:2;font-family:'Courier New'" >
 <tspan sodipodi:role="line">#000000(  0,  0,  0)</tspan>
 <tspan sodipodi:role="line">#00002A(  0,  0, 42)</tspan>
 <tspan sodipodi:role="line">#000055(  0,  0, 85)</tspan>
@@ -512,7 +512,7 @@
 <tspan sodipodi:role="line">#2AFFFF( 42,255,255)</tspan>
 <tspan sodipodi:role="line">#550000( 85,  0,  0)</tspan>
 <tspan sodipodi:role="line">#55002A( 85,  0, 42)</tspan>
-<tspan sodipodi:role="line">#550055( 85,  0, 85)</tspan>
+<!-- <tspan sodipodi:role="line">#550055( 85,  0, 85)</tspan>
 <tspan sodipodi:role="line">#55007F( 85,  0,127)</tspan>
 <tspan sodipodi:role="line">#5500AA( 85,  0,170)</tspan>
 <tspan sodipodi:role="line">#5500D4( 85,  0,212)</tspan>
@@ -755,8 +755,8 @@
 <tspan sodipodi:role="line">#FFFFAA(255,255,170)</tspan>
 <tspan sodipodi:role="line">#FFFFD4(255,255,212)</tspan>
 <tspan sodipodi:role="line">#FFFFFF(255,255,255)</tspan>
-</text>
--->
+--></text>
+
        </g>
   </svg>
 <!--
