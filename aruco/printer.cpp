@@ -30,15 +30,18 @@ class Aruco
   public:
    int value( int x, int y )
     {
-      return ( m_pattern & ( (std::uint64_t)1 << ( m_board[0]*y+x ) )  )? 1 : 0;
+     int yp = (m_board[1] - 1) - y;
+     int xp = (m_board[0] - 1) - x;
+     return ( m_pattern & ( (std::uint64_t)1 << ( m_board[0]*yp+xp ) )  )? 1 : 0;
     }
+
    void print( ostream_type & ofs )
      {
       ofs << "<g "
           <<        " transform=\"translate( " << m_square << " " << m_square << ")\" "
       << ">"<< std::endl;
 
-      std::uint64_t index= m_pattern;
+      std::uint64_t index = m_pattern;
 
       ofs << "<!-- 0b";
       for( int y=0; y< m_board[1]; ++y )
@@ -67,7 +70,7 @@ class Aruco
         {
          if( true )
           {
-           switch(value( x, y ) )
+           switch( value( x, y ) )
             {
              case( 0 ): color = "black"; break;
              case( 1 ): color = "white"; break;
@@ -592,7 +595,7 @@ void cubeG( std::string const& fileName, colorDouble_t const& step, std::array<s
 
     page.m_canvas = { 297, 420 };
 
-    page.m_margin={ 23, 23 };
+    page.m_margin={ 11, 11 };
     page.m_square = -1;
 
     page.m_av[0].m_pattern = pattern[0];  page.m_av[0].m_board = { 5, 5 }; page.m_av[0].m_square = 7;
