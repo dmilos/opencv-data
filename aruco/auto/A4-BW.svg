@@ -1,6 +1,35 @@
   <svg height="297mm" width="210mm" >
   <sodipodi:namedview id="base" inkscape:document-units="mm" />
+<g                              
+   inkscape:label="Layer 1"   
+   inkscape:groupmode="layer" 
+   id="layer1">               
   <g  transform="translate(0 0) scale( 3.7795277 )">
+  <g  transform="translate(70.6 28) scale( 1 )">
+<text  fill="#7f7f7f" style="font-size:12;font-family:'Courier New'"  >
+
+</text>
+    </g>
+  <g  transform="translate(70.6 40) scale( 1 )">
+<text  fill="#a0a0a0" style="font-size:5;font-family:'Courier New'"  >
+1x2
+</text>
+    </g>
+  <g  transform="translate(70.6 45) scale( 1 )">
+<text  fill="#a0a0a0" style="font-size:5;font-family:'Courier New'"  >
+86.000000mm
+</text>
+    </g>
+  <g  transform="translate(70.6 50) scale( 1 )">
+<text  fill="#a0a0a0" style="font-size:5;font-family:'Courier New'"  >
+86.000000x172.000000mm
+</text>
+    </g>
+  <g  transform="translate(70.6 55) scale( 1 )">
+<text  fill="#a0a0a0" style="font-size:5;font-family:'Courier New'"  >
+42x42mm
+</text>
+    </g>
     <g  transform=" translate(62 234.5)  ">
         <g  transform="rotate(+90)">
 <g  transform="translate( 6 6)" >
@@ -69,6 +98,7 @@
 </text>
 
        </g>
+    </g><!-- Layer -->
   </svg>
 <!--
 name some-name
