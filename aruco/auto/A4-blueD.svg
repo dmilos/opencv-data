@@ -5,6 +5,94 @@
    inkscape:groupmode="layer" 
    id="layer1">               
   <g  transform="translate(0 0) scale( 3.7795277 )">
+  <g  transform="translate(90 20.5) scale( 1 )"><g>
+<rect width="10" height="10" x="0" y="0"  style="fill:red;" />
+
+<rect width="10" height="10" x="10" y="0"  style="fill:green;" />
+
+<rect width="10" height="10" x="20" y="0"  style="fill:blue;" />
+
+<rect width="10" height="10" x="0" y="10"  style="fill:black;" />
+
+<rect width="10" height="10" x="10" y="10"  style="fill:gray;" />
+
+<rect width="10" height="10" x="20" y="10"  style="fill:white;" />
+
+<rect width="10" height="10" x="0" y="20"  style="fill:cyan;" />
+
+<rect width="10" height="10" x="10" y="20"  style="fill:magenta;" />
+
+<rect width="10" height="10" x="20" y="20"  style="fill:yellow;" />
+
+</g>
+
+    </g>
+  <g  transform="translate(90 246.5) scale( 1 )"><g>
+<rect width="10" height="10" x="0" y="0"  style="fill:red;" />
+
+<rect width="10" height="10" x="10" y="0"  style="fill:green;" />
+
+<rect width="10" height="10" x="20" y="0"  style="fill:blue;" />
+
+<rect width="10" height="10" x="0" y="10"  style="fill:black;" />
+
+<rect width="10" height="10" x="10" y="10"  style="fill:gray;" />
+
+<rect width="10" height="10" x="20" y="10"  style="fill:white;" />
+
+<rect width="10" height="10" x="0" y="20"  style="fill:cyan;" />
+
+<rect width="10" height="10" x="10" y="20"  style="fill:magenta;" />
+
+<rect width="10" height="10" x="20" y="20"  style="fill:yellow;" />
+
+</g>
+
+    </g>
+  <g  transform="translate(20 133.5) scale( 1 )"><g>
+<rect width="10" height="10" x="0" y="0"  style="fill:red;" />
+
+<rect width="10" height="10" x="10" y="0"  style="fill:green;" />
+
+<rect width="10" height="10" x="20" y="0"  style="fill:blue;" />
+
+<rect width="10" height="10" x="0" y="10"  style="fill:black;" />
+
+<rect width="10" height="10" x="10" y="10"  style="fill:gray;" />
+
+<rect width="10" height="10" x="20" y="10"  style="fill:white;" />
+
+<rect width="10" height="10" x="0" y="20"  style="fill:cyan;" />
+
+<rect width="10" height="10" x="10" y="20"  style="fill:magenta;" />
+
+<rect width="10" height="10" x="20" y="20"  style="fill:yellow;" />
+
+</g>
+
+    </g>
+  <g  transform="translate(160 133.5) scale( 1 )"><g>
+<rect width="10" height="10" x="0" y="0"  style="fill:red;" />
+
+<rect width="10" height="10" x="10" y="0"  style="fill:green;" />
+
+<rect width="10" height="10" x="20" y="0"  style="fill:blue;" />
+
+<rect width="10" height="10" x="0" y="10"  style="fill:black;" />
+
+<rect width="10" height="10" x="10" y="10"  style="fill:gray;" />
+
+<rect width="10" height="10" x="20" y="10"  style="fill:white;" />
+
+<rect width="10" height="10" x="0" y="20"  style="fill:cyan;" />
+
+<rect width="10" height="10" x="10" y="20"  style="fill:magenta;" />
+
+<rect width="10" height="10" x="20" y="20"  style="fill:yellow;" />
+
+</g>
+
+    </g>
   <g  transform="translate(70.6 28) scale( 1 )">
 <text  fill="#7f7f7f" style="font-size:12;font-family:'Courier New'"  >
 
@@ -12,36 +100,142 @@
     </g>
   <g  transform="translate(70.6 40) scale( 1 )">
 <text  fill="#a0a0a0" style="font-size:5;font-family:'Courier New'"  >
-4x8
+32=4x8
 </text>
     </g>
   <g  transform="translate(70.6 45) scale( 1 )">
 <text  fill="#a0a0a0" style="font-size:5;font-family:'Courier New'"  >
-21.500000mm
+21.5mm
 </text>
     </g>
   <g  transform="translate(70.6 50) scale( 1 )">
 <text  fill="#a0a0a0" style="font-size:5;font-family:'Courier New'"  >
-86.000000x172.000000mm
+86x172mm
 </text>
     </g>
-  <g  transform="translate(70.6 55) scale( 1 )">
-<text  fill="#a0a0a0" style="font-size:5;font-family:'Courier New'"  >
-42x42mm
-</text>
-    </g>
+  <g  transform="  translate(62 234.5) scale( +1 -1 )" >
+<rect width="21.5" height="21.5" x="0" y="0"  style="fill:#000008;" />
+
+<rect width="21.5" height="21.5" x="21.5" y="0"  style="fill:#000010;" />
+
+<rect width="21.5" height="21.5" x="43" y="0"  style="fill:#000018;" />
+
+<rect width="21.5" height="21.5" x="64.5" y="0"  style="fill:#000020;" />
+
+<rect width="21.5" height="21.5" x="0" y="21.5"  style="fill:#000028;" />
+
+<rect width="21.5" height="21.5" x="21.5" y="21.5"  style="fill:#000030;" />
+
+<rect width="21.5" height="21.5" x="43" y="21.5"  style="fill:#000038;" />
+
+<rect width="21.5" height="21.5" x="64.5" y="21.5"  style="fill:#000040;" />
+
+<rect width="21.5" height="21.5" x="0" y="43"  style="fill:#000048;" />
+
+<rect width="21.5" height="21.5" x="21.5" y="43"  style="fill:#000050;" />
+
+<rect width="21.5" height="21.5" x="43" y="43"  style="fill:#000058;" />
+
+<rect width="21.5" height="21.5" x="64.5" y="43"  style="fill:#000060;" />
+
+<rect width="21.5" height="21.5" x="0" y="64.5"  style="fill:#000068;" />
+
+<rect width="21.5" height="21.5" x="21.5" y="64.5"  style="fill:#000070;" />
+
+<rect width="21.5" height="21.5" x="43" y="64.5"  style="fill:#000078;" />
+
+<rect width="21.5" height="21.5" x="64.5" y="64.5"  style="fill:#000080;" />
+
+<rect width="21.5" height="21.5" x="0" y="86"  style="fill:#000088;" />
+
+<rect width="21.5" height="21.5" x="21.5" y="86"  style="fill:#000090;" />
+
+<rect width="21.5" height="21.5" x="43" y="86"  style="fill:#000098;" />
+
+<rect width="21.5" height="21.5" x="64.5" y="86"  style="fill:#0000A0;" />
+
+<rect width="21.5" height="21.5" x="0" y="107.5"  style="fill:#0000A8;" />
+
+<rect width="21.5" height="21.5" x="21.5" y="107.5"  style="fill:#0000B0;" />
+
+<rect width="21.5" height="21.5" x="43" y="107.5"  style="fill:#0000B8;" />
+
+<rect width="21.5" height="21.5" x="64.5" y="107.5"  style="fill:#0000C0;" />
+
+<rect width="21.5" height="21.5" x="0" y="129"  style="fill:#0000C8;" />
+
+<rect width="21.5" height="21.5" x="21.5" y="129"  style="fill:#0000D0;" />
+
+<rect width="21.5" height="21.5" x="43" y="129"  style="fill:#0000D8;" />
+
+<rect width="21.5" height="21.5" x="64.5" y="129"  style="fill:#0000E0;" />
+
+<rect width="21.5" height="21.5" x="0" y="150.5"  style="fill:#0000E8;" />
+
+<rect width="21.5" height="21.5" x="21.5" y="150.5"  style="fill:#0000F0;" />
+
+<rect width="21.5" height="21.5" x="43" y="150.5"  style="fill:#0000F8;" />
+
+<rect width="21.5" height="21.5" x="64.5" y="150.5"  style="fill:#0000FF;" />
+
+       </g>
     <g  transform=" translate(62 234.5)  ">
         <g  transform="rotate(+90)">
 <g  transform="translate( 6 6)" >
 <!-- 0b0000101001110101000001111-->
 <text fill="rgb(160,160,160)" transform="translate( -3 -10)"   font-size="6" >0x14ea0f</text>
-<rect width="6" height="6" x="-6" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="0" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="6" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="12" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="18" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="24" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="30" y="-6"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="0"  style="fill:black;"  /><rect width="6" height="6" x="0" y="0"  style="fill:black;"  /><rect width="6" height="6" x="6" y="0"  style="fill:black;"  /><rect width="6" height="6" x="12" y="0"  style="fill:black;"  /><rect width="6" height="6" x="18" y="0"  style="fill:black;"  /><rect width="6" height="6" x="24" y="0"  style="fill:white;"  /><rect width="6" height="6" x="30" y="0"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="6"  style="fill:black;"  /><rect width="6" height="6" x="0" y="6"  style="fill:black;"  /><rect width="6" height="6" x="6" y="6"  style="fill:white;"  /><rect width="6" height="6" x="12" y="6"  style="fill:black;"  /><rect width="6" height="6" x="18" y="6"  style="fill:black;"  /><rect width="6" height="6" x="24" y="6"  style="fill:white;"  /><rect width="6" height="6" x="30" y="6"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="12"  style="fill:black;"  /><rect width="6" height="6" x="0" y="12"  style="fill:white;"  /><rect width="6" height="6" x="6" y="12"  style="fill:white;"  /><rect width="6" height="6" x="12" y="12"  style="fill:black;"  /><rect width="6" height="6" x="18" y="12"  style="fill:white;"  /><rect width="6" height="6" x="24" y="12"  style="fill:black;"  /><rect width="6" height="6" x="30" y="12"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="18"  style="fill:black;"  /><rect width="6" height="6" x="0" y="18"  style="fill:white;"  /><rect width="6" height="6" x="6" y="18"  style="fill:black;"  /><rect width="6" height="6" x="12" y="18"  style="fill:black;"  /><rect width="6" height="6" x="18" y="18"  style="fill:black;"  /><rect width="6" height="6" x="24" y="18"  style="fill:black;"  /><rect width="6" height="6" x="30" y="18"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="24"  style="fill:black;"  /><rect width="6" height="6" x="0" y="24"  style="fill:black;"  /><rect width="6" height="6" x="6" y="24"  style="fill:white;"  /><rect width="6" height="6" x="12" y="24"  style="fill:white;"  /><rect width="6" height="6" x="18" y="24"  style="fill:white;"  /><rect width="6" height="6" x="24" y="24"  style="fill:white;"  /><rect width="6" height="6" x="30" y="24"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="30"  style="fill:black;"  /><rect width="6" height="6" x="0" y="30"  style="fill:black;"  /><rect width="6" height="6" x="6" y="30"  style="fill:black;"  /><rect width="6" height="6" x="12" y="30"  style="fill:black;"  /><rect width="6" height="6" x="18" y="30"  style="fill:black;"  /><rect width="6" height="6" x="24" y="30"  style="fill:black;"  /><rect width="6" height="6" x="30" y="30"  style="fill:black;"  />
+<path style="fill:#ffffff;" d="m -5.700000, -5.700000 0.000000, -3.900000 -3.900000, 3.900000  z" /><g><rect width="6" height="6" x="-6" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="0"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="6"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="6"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="6" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="24" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="18"  style="fill:white;" />
+<rect width="6" height="6" x="6" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="18" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="24" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="30"  style="fill:black;" />
+</g>
+<text fill="rgb(160,160,160)" transform="translate( 15 39)"   font-size="1.5"   style="text-anchor:middle;text-align:center;"  ><tspan sodipodi:role="line">42x42(30x30)[6x6]mm</tspan><tspan sodipodi:role="line">7x7(5x5)</tspan></text>
+
 </g>
         </g>
     </g>
@@ -49,13 +243,58 @@
 <g  transform="translate( 6 6)" >
 <!-- 0b0000101001110011110110110-->
 <text fill="rgb(160,160,160)" transform="translate( -3 -10)"   font-size="6" >0x14e7b6</text>
-<rect width="6" height="6" x="-6" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="0" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="6" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="12" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="18" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="24" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="30" y="-6"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="0"  style="fill:black;"  /><rect width="6" height="6" x="0" y="0"  style="fill:black;"  /><rect width="6" height="6" x="6" y="0"  style="fill:black;"  /><rect width="6" height="6" x="12" y="0"  style="fill:black;"  /><rect width="6" height="6" x="18" y="0"  style="fill:black;"  /><rect width="6" height="6" x="24" y="0"  style="fill:white;"  /><rect width="6" height="6" x="30" y="0"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="6"  style="fill:black;"  /><rect width="6" height="6" x="0" y="6"  style="fill:black;"  /><rect width="6" height="6" x="6" y="6"  style="fill:white;"  /><rect width="6" height="6" x="12" y="6"  style="fill:black;"  /><rect width="6" height="6" x="18" y="6"  style="fill:black;"  /><rect width="6" height="6" x="24" y="6"  style="fill:white;"  /><rect width="6" height="6" x="30" y="6"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="12"  style="fill:black;"  /><rect width="6" height="6" x="0" y="12"  style="fill:white;"  /><rect width="6" height="6" x="6" y="12"  style="fill:white;"  /><rect width="6" height="6" x="12" y="12"  style="fill:black;"  /><rect width="6" height="6" x="18" y="12"  style="fill:black;"  /><rect width="6" height="6" x="24" y="12"  style="fill:white;"  /><rect width="6" height="6" x="30" y="12"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="18"  style="fill:black;"  /><rect width="6" height="6" x="0" y="18"  style="fill:white;"  /><rect width="6" height="6" x="6" y="18"  style="fill:white;"  /><rect width="6" height="6" x="12" y="18"  style="fill:white;"  /><rect width="6" height="6" x="18" y="18"  style="fill:black;"  /><rect width="6" height="6" x="24" y="18"  style="fill:white;"  /><rect width="6" height="6" x="30" y="18"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="24"  style="fill:black;"  /><rect width="6" height="6" x="0" y="24"  style="fill:white;"  /><rect width="6" height="6" x="6" y="24"  style="fill:black;"  /><rect width="6" height="6" x="12" y="24"  style="fill:white;"  /><rect width="6" height="6" x="18" y="24"  style="fill:white;"  /><rect width="6" height="6" x="24" y="24"  style="fill:black;"  /><rect width="6" height="6" x="30" y="24"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="30"  style="fill:black;"  /><rect width="6" height="6" x="0" y="30"  style="fill:black;"  /><rect width="6" height="6" x="6" y="30"  style="fill:black;"  /><rect width="6" height="6" x="12" y="30"  style="fill:black;"  /><rect width="6" height="6" x="18" y="30"  style="fill:black;"  /><rect width="6" height="6" x="24" y="30"  style="fill:black;"  /><rect width="6" height="6" x="30" y="30"  style="fill:black;"  />
+<path style="fill:#ffffff;" d="m -5.700000, -5.700000 0.000000, -3.900000 -3.900000, 3.900000  z" /><g><rect width="6" height="6" x="-6" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="0"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="6"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="6"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="6" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="18"  style="fill:white;" />
+<rect width="6" height="6" x="6" y="18"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="18"  style="fill:white;" />
+<rect width="6" height="6" x="18" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="18"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="6" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="18" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="24" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="30"  style="fill:black;" />
+</g>
+<text fill="rgb(160,160,160)" transform="translate( 15 39)"   font-size="1.5"   style="text-anchor:middle;text-align:center;"  ><tspan sodipodi:role="line">42x42(30x30)[6x6]mm</tspan><tspan sodipodi:role="line">7x7(5x5)</tspan></text>
+
 </g>
        </g>
   <g  transform="translate(62 62.5) ">
@@ -63,13 +302,58 @@
 <g  transform="translate( 6 6)" >
 <!-- 0b0000101001110011110011011-->
 <text fill="rgb(160,160,160)" transform="translate( -3 -10)"   font-size="6" >0x14e79b</text>
-<rect width="6" height="6" x="-6" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="0" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="6" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="12" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="18" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="24" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="30" y="-6"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="0"  style="fill:black;"  /><rect width="6" height="6" x="0" y="0"  style="fill:black;"  /><rect width="6" height="6" x="6" y="0"  style="fill:black;"  /><rect width="6" height="6" x="12" y="0"  style="fill:black;"  /><rect width="6" height="6" x="18" y="0"  style="fill:black;"  /><rect width="6" height="6" x="24" y="0"  style="fill:white;"  /><rect width="6" height="6" x="30" y="0"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="6"  style="fill:black;"  /><rect width="6" height="6" x="0" y="6"  style="fill:black;"  /><rect width="6" height="6" x="6" y="6"  style="fill:white;"  /><rect width="6" height="6" x="12" y="6"  style="fill:black;"  /><rect width="6" height="6" x="18" y="6"  style="fill:black;"  /><rect width="6" height="6" x="24" y="6"  style="fill:white;"  /><rect width="6" height="6" x="30" y="6"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="12"  style="fill:black;"  /><rect width="6" height="6" x="0" y="12"  style="fill:white;"  /><rect width="6" height="6" x="6" y="12"  style="fill:white;"  /><rect width="6" height="6" x="12" y="12"  style="fill:black;"  /><rect width="6" height="6" x="18" y="12"  style="fill:black;"  /><rect width="6" height="6" x="24" y="12"  style="fill:white;"  /><rect width="6" height="6" x="30" y="12"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="18"  style="fill:black;"  /><rect width="6" height="6" x="0" y="18"  style="fill:white;"  /><rect width="6" height="6" x="6" y="18"  style="fill:white;"  /><rect width="6" height="6" x="12" y="18"  style="fill:white;"  /><rect width="6" height="6" x="18" y="18"  style="fill:black;"  /><rect width="6" height="6" x="24" y="18"  style="fill:black;"  /><rect width="6" height="6" x="30" y="18"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="24"  style="fill:black;"  /><rect width="6" height="6" x="0" y="24"  style="fill:white;"  /><rect width="6" height="6" x="6" y="24"  style="fill:white;"  /><rect width="6" height="6" x="12" y="24"  style="fill:black;"  /><rect width="6" height="6" x="18" y="24"  style="fill:white;"  /><rect width="6" height="6" x="24" y="24"  style="fill:white;"  /><rect width="6" height="6" x="30" y="24"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="30"  style="fill:black;"  /><rect width="6" height="6" x="0" y="30"  style="fill:black;"  /><rect width="6" height="6" x="6" y="30"  style="fill:black;"  /><rect width="6" height="6" x="12" y="30"  style="fill:black;"  /><rect width="6" height="6" x="18" y="30"  style="fill:black;"  /><rect width="6" height="6" x="24" y="30"  style="fill:black;"  /><rect width="6" height="6" x="30" y="30"  style="fill:black;"  />
+<path style="fill:#ffffff;" d="m -5.700000, -5.700000 0.000000, -3.900000 -3.900000, 3.900000  z" /><g><rect width="6" height="6" x="-6" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="0"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="6"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="6"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="6" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="18"  style="fill:white;" />
+<rect width="6" height="6" x="6" y="18"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="18"  style="fill:white;" />
+<rect width="6" height="6" x="18" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="6" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="24" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="30"  style="fill:black;" />
+</g>
+<text fill="rgb(160,160,160)" transform="translate( 15 39)"   font-size="1.5"   style="text-anchor:middle;text-align:center;"  ><tspan sodipodi:role="line">42x42(30x30)[6x6]mm</tspan><tspan sodipodi:role="line">7x7(5x5)</tspan></text>
+
 </g>
         </g>
     </g>
@@ -78,50 +362,61 @@
 <g  transform="translate( 6 6)" >
 <!-- 0b0000101001110011010001011-->
 <text fill="rgb(160,160,160)" transform="translate( -3 -10)"   font-size="6" >0x14e68b</text>
-<rect width="6" height="6" x="-6" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="0" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="6" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="12" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="18" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="24" y="-6"  style="fill:black;"  /><rect width="6" height="6" x="30" y="-6"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="0"  style="fill:black;"  /><rect width="6" height="6" x="0" y="0"  style="fill:black;"  /><rect width="6" height="6" x="6" y="0"  style="fill:black;"  /><rect width="6" height="6" x="12" y="0"  style="fill:black;"  /><rect width="6" height="6" x="18" y="0"  style="fill:black;"  /><rect width="6" height="6" x="24" y="0"  style="fill:white;"  /><rect width="6" height="6" x="30" y="0"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="6"  style="fill:black;"  /><rect width="6" height="6" x="0" y="6"  style="fill:black;"  /><rect width="6" height="6" x="6" y="6"  style="fill:white;"  /><rect width="6" height="6" x="12" y="6"  style="fill:black;"  /><rect width="6" height="6" x="18" y="6"  style="fill:black;"  /><rect width="6" height="6" x="24" y="6"  style="fill:white;"  /><rect width="6" height="6" x="30" y="6"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="12"  style="fill:black;"  /><rect width="6" height="6" x="0" y="12"  style="fill:white;"  /><rect width="6" height="6" x="6" y="12"  style="fill:white;"  /><rect width="6" height="6" x="12" y="12"  style="fill:black;"  /><rect width="6" height="6" x="18" y="12"  style="fill:black;"  /><rect width="6" height="6" x="24" y="12"  style="fill:white;"  /><rect width="6" height="6" x="30" y="12"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="18"  style="fill:black;"  /><rect width="6" height="6" x="0" y="18"  style="fill:white;"  /><rect width="6" height="6" x="6" y="18"  style="fill:black;"  /><rect width="6" height="6" x="12" y="18"  style="fill:white;"  /><rect width="6" height="6" x="18" y="18"  style="fill:black;"  /><rect width="6" height="6" x="24" y="18"  style="fill:black;"  /><rect width="6" height="6" x="30" y="18"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="24"  style="fill:black;"  /><rect width="6" height="6" x="0" y="24"  style="fill:black;"  /><rect width="6" height="6" x="6" y="24"  style="fill:white;"  /><rect width="6" height="6" x="12" y="24"  style="fill:black;"  /><rect width="6" height="6" x="18" y="24"  style="fill:white;"  /><rect width="6" height="6" x="24" y="24"  style="fill:white;"  /><rect width="6" height="6" x="30" y="24"  style="fill:black;"  />
-<rect width="6" height="6" x="-6" y="30"  style="fill:black;"  /><rect width="6" height="6" x="0" y="30"  style="fill:black;"  /><rect width="6" height="6" x="6" y="30"  style="fill:black;"  /><rect width="6" height="6" x="12" y="30"  style="fill:black;"  /><rect width="6" height="6" x="18" y="30"  style="fill:black;"  /><rect width="6" height="6" x="24" y="30"  style="fill:black;"  /><rect width="6" height="6" x="30" y="30"  style="fill:black;"  />
+<path style="fill:#ffffff;" d="m -5.700000, -5.700000 0.000000, -3.900000 -3.900000, 3.900000  z" /><g><rect width="6" height="6" x="-6" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="-6"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="0"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="0"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="6"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="6"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="6"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="6" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="12"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="12"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="18"  style="fill:white;" />
+<rect width="6" height="6" x="6" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="18"  style="fill:white;" />
+<rect width="6" height="6" x="18" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="18"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="12" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="24" y="24"  style="fill:white;" />
+<rect width="6" height="6" x="30" y="24"  style="fill:black;" />
+<rect width="6" height="6" x="-6" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="0" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="6" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="12" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="18" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="24" y="30"  style="fill:black;" />
+<rect width="6" height="6" x="30" y="30"  style="fill:black;" />
+</g>
+<text fill="rgb(160,160,160)" transform="translate( 15 39)"   font-size="1.5"   style="text-anchor:middle;text-align:center;"  ><tspan sodipodi:role="line">42x42(30x30)[6x6]mm</tspan><tspan sodipodi:role="line">7x7(5x5)</tspan></text>
+
 </g>
         </g>
     </g>
-  <g  transform="  translate(62 234.5) scale( +1 -1 )" >
-<rect width="21.5" height="21.5" x="0" y="0"  style="fill:#000008;"  />
-<rect width="21.5" height="21.5" x="21.5" y="0"  style="fill:#000010;"  />
-<rect width="21.5" height="21.5" x="43" y="0"  style="fill:#000018;"  />
-<rect width="21.5" height="21.5" x="64.5" y="0"  style="fill:#000020;"  />
-<rect width="21.5" height="21.5" x="0" y="21.5"  style="fill:#000028;"  />
-<rect width="21.5" height="21.5" x="21.5" y="21.5"  style="fill:#000030;"  />
-<rect width="21.5" height="21.5" x="43" y="21.5"  style="fill:#000038;"  />
-<rect width="21.5" height="21.5" x="64.5" y="21.5"  style="fill:#000040;"  />
-<rect width="21.5" height="21.5" x="0" y="43"  style="fill:#000048;"  />
-<rect width="21.5" height="21.5" x="21.5" y="43"  style="fill:#000050;"  />
-<rect width="21.5" height="21.5" x="43" y="43"  style="fill:#000058;"  />
-<rect width="21.5" height="21.5" x="64.5" y="43"  style="fill:#000060;"  />
-<rect width="21.5" height="21.5" x="0" y="64.5"  style="fill:#000068;"  />
-<rect width="21.5" height="21.5" x="21.5" y="64.5"  style="fill:#000070;"  />
-<rect width="21.5" height="21.5" x="43" y="64.5"  style="fill:#000078;"  />
-<rect width="21.5" height="21.5" x="64.5" y="64.5"  style="fill:#000080;"  />
-<rect width="21.5" height="21.5" x="0" y="86"  style="fill:#000088;"  />
-<rect width="21.5" height="21.5" x="21.5" y="86"  style="fill:#000090;"  />
-<rect width="21.5" height="21.5" x="43" y="86"  style="fill:#000098;"  />
-<rect width="21.5" height="21.5" x="64.5" y="86"  style="fill:#0000A0;"  />
-<rect width="21.5" height="21.5" x="0" y="107.5"  style="fill:#0000A8;"  />
-<rect width="21.5" height="21.5" x="21.5" y="107.5"  style="fill:#0000B0;"  />
-<rect width="21.5" height="21.5" x="43" y="107.5"  style="fill:#0000B8;"  />
-<rect width="21.5" height="21.5" x="64.5" y="107.5"  style="fill:#0000C0;"  />
-<rect width="21.5" height="21.5" x="0" y="129"  style="fill:#0000C8;"  />
-<rect width="21.5" height="21.5" x="21.5" y="129"  style="fill:#0000D0;"  />
-<rect width="21.5" height="21.5" x="43" y="129"  style="fill:#0000D8;"  />
-<rect width="21.5" height="21.5" x="64.5" y="129"  style="fill:#0000E0;"  />
-<rect width="21.5" height="21.5" x="0" y="150.5"  style="fill:#0000E8;"  />
-<rect width="21.5" height="21.5" x="21.5" y="150.5"  style="fill:#0000F0;"  />
-<rect width="21.5" height="21.5" x="43" y="150.5"  style="fill:#0000F8;"  />
-<rect width="21.5" height="21.5" x="64.5" y="150.5"  style="fill:#0000FF;"  />
-       </g>
 <text fill="rgb(160,160,160)" transform="translate( 20 72.5)"   style="font-size:2;font-family:'Courier New'" >
 <tspan sodipodi:role="line">#000008(  0,  0,  8)</tspan>
 <tspan sodipodi:role="line">#000010(  0,  0, 16)</tspan>
