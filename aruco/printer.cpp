@@ -307,28 +307,34 @@ class Page
     scalar_type m_square = -1;
     size_type m_legend = 17000;
     std::string m_title="";
-   Page( ){}
+  public:
+    Page( ){}
 
-   void print( ostream_type & ofs )
-    {
-    uv_type adjust;
-    if( -1 == m_square )
+    void print( ostream_type & ofs )
      {
-      auto w = (m_canvas[0] - 2 * m_margin[0]  - 2*m_av[0].size()[0] )/m_board[0];
-      auto h = (m_canvas[1] - 2 * m_margin[1]  - 2*m_av[1].size()[1] )/m_board[1];
-      if( w < h )
+      uv_type adjust;
+      if( -1 == m_square )
        {
-        m_square = w;
-        adjust[0] = 0;
-        adjust[1] = ( m_canvas[1] - 2 * m_av[1].size()[1] - m_square * m_board[1]) /2 -  m_margin[1];
+        auto w = (m_canvas[0] - 2 * m_margin[0]  - 2*m_av[0].size()[0] )/m_board[0];
+        auto h = (m_canvas[1] - 2 * m_margin[1]  - 2*m_av[1].size()[1] )/m_board[1];
+        if( w < h )
+         {
+          m_square = w;
+          adjust[0] = 0;
+          adjust[1] = ( m_canvas[1] - 2 * m_av[1].size()[1] - m_square * m_board[1]) /2 -  m_margin[1];
+         }
+        else
+         {
+          m_square = h;
+          adjust[0] = ( m_canvas[0] - 2 * m_av[0].size()[0] - m_square * m_board[0]) /2 -  m_margin[0];
+          adjust[1] = 0;
+         }
        }
       else
        {
-        m_square = h;
-        adjust[0] = ( m_canvas[0] - 2 * m_av[0].size()[0] - m_square * m_board[0]) /2 -  m_margin[0];
-        adjust[1] = 0;
+        adjust[0] = ( m_canvas[0] - 2 * m_av[0].size()[0] - m_square * m_board[0]) /2.0 -  m_margin[0];
+        adjust[1] = ( m_canvas[1] - 2 * m_av[1].size()[1] - m_square * m_board[1]) /2.0 -  m_margin[1];
        }
-     }
 
     uv_type lo = { adjust[0] + m_margin[0] + m_av[0].size()[0], adjust[1] + m_margin[1]  + m_av[0].size()[1] };
     uv_type hi = { lo[0]+ m_board[0] * m_square, lo[1] + m_board[1] * m_square };
@@ -1101,6 +1107,46 @@ void MacbethA4( std::string const& fileName  ,std::array<std::uint64_t, 4 > cons
   page.print( std::ofstream( fileName ) );
  }
 
+
+void checkerAx
+ (
+   std::string const& fileName
+  ,double const& square_in_mm
+  ,Page::uv_type const& canvas
+  ,std::array<std::uint64_t, 4 > const& pattern
+ )
+ {
+  Page page;
+    page.m_margin={ 21, 18 };
+    page.m_canvas = canvas;
+    page.m_square = square_in_mm;
+
+    page.m_av[0].m_pattern = pattern[0];  page.m_av[0].m_board = { 5, 5 }; page.m_av[0].m_square = 7;
+    page.m_av[1].m_pattern = pattern[1];  page.m_av[1].m_board = { 5, 5 }; page.m_av[1].m_square = 7;
+    page.m_av[2].m_pattern = pattern[2];  page.m_av[2].m_board = { 5, 5 }; page.m_av[2].m_square = 7;
+    page.m_av[3].m_pattern = pattern[3];  page.m_av[3].m_board = { 5, 5 }; page.m_av[3].m_square = 7;
+
+    page.m_legend = 0;
+
+    page.m_board[0] = ( page.m_canvas[0] - 2*page.m_margin[0] - 2 * page.m_av[0].m_square * page.m_av[0].m_board[0] )/page.m_square;
+    page.m_board[1] = ( page.m_canvas[1] - 2*page.m_margin[1] - 2 * page.m_av[1].m_square * page.m_av[1].m_board[1] )/page.m_square;
+
+    page.m_table.clear();
+    int total = page.m_board[0]*page.m_board[1];
+
+     for( int y=0; y < page.m_board[1] ; ++y )for( int x=0; x < page.m_board[0] ; ++x )
+     {
+      color_t current;
+      std::string black="#000000";
+      std::string white="#ffffff";
+
+      page.m_table.push_back( ( ( x  + (  y% 2 ) ) % 2 )  ? black: white );
+     }
+
+  page.print( std::ofstream( fileName ) );
+ }
+
+
 #if defined( color_a9f1aad2_e23c_4f7e_9dce_0f1c116f4968 )
 
 template < typename N_category >
@@ -1207,7 +1253,15 @@ void main()
   lineA3( "A3-gray128a.svg",{ 0, 0, 0}, { 256.0/( 8*16 ), 256.0/( 8*16 ), 256.0/( 8*16 ) }, { 9, 15 }, { 0b0000100111111101100100111,0b0000100111111101001110110,0b0000100111111011001001010,0b0000100111111011000001011} );
 
   lineA3( "A3-gray001.svg", { 0, 0, 0}, { 256.0/( 1* 1 ), 256.0/( 1* 1 ), 256.0/( 1* 1 ) }, { 1,  2 }, { 0b0000100111111101001110110,0b0000100111111011001001010,0b0000100111111011000001011,0b0000100111110101100100111} );
-  
+
+  checkerAx( "A4-checker-10mm.svg",  10, { 210, 297 },  { 0b0000100111111011001001010,0b0000100111111011000001011,0b0000100111110101100100111,0b0000100111110101001110110  } );
+  checkerAx( "A4-checker-15mm.svg",  15, { 210, 297 },  { 0b0000100111111011000001011,0b0000100111110101100100111,0b0000100111110101001110110,0b0000100111110011001001010  } );
+  checkerAx( "A4-checker-20mm.svg",  20, { 210, 297 },  { 0b0000100111110101100100111,0b0000100111110101001110110,0b0000100111110011001001010,0b0000100111110011000001011  } );
+  checkerAx( "A3-checker-10mm.svg",  10, { 297, 420 },  { 0b0000100111110101001110110,0b0000100111110011001001010,0b0000100111110011000001011,0b0000100111101111101001011  } );
+  checkerAx( "A3-checker-15mm.svg",  15, { 297, 420 },  { 0b0000100111110011001001010,0b0000100111110011000001011,0b0000100111101111101001011,0b0000100111101111001011011  } );
+  checkerAx( "A3-checker-20mm.svg",  20, { 297, 420 },  { 0b0000100111110011000001011,0b0000100111101111101001011,0b0000100111101111001011011,0b0000100111101001111001111  } );
+  checkerAx( "A3-checker-25mm.svg",  25, { 297, 420 },  { 0b0000100111101111101001011,0b0000100111101111001011011,0b0000100111101001111001111,0b0000100111101001100100111  } );
+
   lineA3( "A3-gray256b.svg", { 0, 0, 0}, { 1, 1, 1 }, { 16,16 }, { 0xffffffff,0xffffffff,0xffffffff,0xffffffff } );
   cubeG( "A3-cube008.svg", {255/8.0,255/8.0,255/8.0},            { 0xffffffff,0xffffffff,0xffffffff,0xffffffff } );
   cubeG( "A3-cube016.svg", {255/16.0,255/16.0,255/16.0},         { 0xffffffff,0xffffffff,0xffffffff,0xffffffff } );
@@ -1215,6 +1269,8 @@ void main()
   MacbethA4( "A4-Macbeth-Wikipedia.svg",                         { 0xffffffff,0xffffffff,0xffffffff,0xffffffff  } );
 
   planeA4<0,1>( "A4-plane-blue-0.svg", { 255.0/( 6 ), 255.0/( 6 ), 255.0/( 6 ) }, { 5, 10 }, { 0b0000111110001111010111100,0b0000110110111010000101011,0b0000100001101101101110110,0b0000100001100111110001011 } );
+
+
 
 #if defined( color_a9f1aad2_e23c_4f7e_9dce_0f1c116f4968 )
 parallelogram< color::lab<double>::category_type >
